@@ -4,6 +4,7 @@ import ConsoleDiv from "../atoms/consolediv";
 import AdamImage from "../atoms/icons/AdamImage";
 import Introduction from "../atoms/introduction";
 import NativeButton from "../atoms/nativebutton";
+import Navbar from "../molecules/Navbar";
 
 function Home() {
   const [isloaded, setIsLoaded] = useState(false);
@@ -41,13 +42,14 @@ function Home() {
 
   return (
     <div
-      className="w-full h-full flex flex-col items-center justify-center"
-      id="app"
+      className=""
+      id="app" 
     >
       <div
-        className="flex flex-col items-center text-center justify-center"
+        className="w-full flex flex-col items-center text-center justify-center"
         id="hero"
       >
+          <Navbar></Navbar>
         <div
           className=""
           style={{
