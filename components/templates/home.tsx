@@ -1,4 +1,5 @@
 'use client'
+import Link from 'next/link'
 import React, { useEffect, useState } from 'react'
 import ConsoleDiv from '../atoms/consolediv'
 import AdamImage from '../atoms/icons/AdamImage'
@@ -64,25 +65,28 @@ function Home() {
           <AdamImage />
         </div>
         <div className="flex items-center text-center mt-5 mb-5">
-          <span className="mr-2">
+          <Link href="https://twitter.com/adamboudj" className="mr-2">
             <TwitterIcon />
-          </span>
-          <span className="mr-2">
+          </Link>
+          <Link href="" className="mr-2">
             {' '}
             <FacebookIcon />
-          </span>
-          <span className="mr-2">
+          </Link>
+          <Link href="" className="mr-2">
             {' '}
             <InstagramIcon />
-          </span>
-          <span className="mr-2">
+          </Link>
+          <Link
+            href="https://www.linkedin.com/in/adamboudjemaa"
+            className="mr-2"
+          >
             {' '}
             <LinkedinIcon />{' '}
-          </span>
-          <span className="">
+          </Link>
+          <Link href="" className="">
             {' '}
             <MetamaskIcon />
-          </span>
+          </Link>
         </div>
 
         <div>
