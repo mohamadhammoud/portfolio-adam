@@ -41,10 +41,14 @@ function ContactMe() {
         </div>
 
         <div className="sm:col-span-1 w-full">
-          <div className="card" style={{ textAlign: 'center' }}>
+          <Link
+            className="card w-full"
+            style={{ textAlign: 'center' }}
+            href="https://t.me/adamboudj"
+          >
             <TelegramIcon />{' '}
-            <span className="ml-5 text-gray-100"> @AdamWeb23 </span>
-          </div>
+            <span className="ml-5 text-gray-100"> @adamboudj </span>
+          </Link>
         </div>
       </div>
 
