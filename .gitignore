@@ -1,37 +1,37 @@
-# Node modules
-node_modules/
+*/node_modules
 
 # Build files
-/.next/
-/out/
+*/.next/
+*/out/
 
 # Environment variables
-.env.local
-.env.build
-.env.production
+*.env.local
+*.env.build
+*.env.production
 
 # IDE and editor files
-.vscode/
-.idea/
+*.vscode/
+*.idea/
 *.iml
 
 # Logs and backups
-logs/
+*logs/
 *.log
 *.log.*
 *.backup
 *.swp
 
 # Dependency lock files
-yarn.lock
-package-lock.json
+*yarn.lock
+*package-lock.json
 
 # Other generated files
-yarn-error.log
-npm-debug.log
-coverage/
+*/yarn-error.log
+*npm-debug.log
+*coverage/
 *.env
 
 # Next.js telemetry
 next-telemetry-client-id
-node_modules
+
+*.gitignore
