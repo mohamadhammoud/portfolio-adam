@@ -230,9 +230,9 @@ function Header() {
                  <path
                    d="M14 16.5L18 12.5M18 12.5L14 8.5M18 12.5L6 12.5"
                 
-                   stroke-width="1.5"
-                   stroke-linecap="round"
-                   stroke-linejoin="round"
+                   strokeWidth="1.5"
+                   strokeLinecap="round"
+                   strokeLinejoin="round"
                  />
                </svg>
              </a>

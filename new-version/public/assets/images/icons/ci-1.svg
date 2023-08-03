@@ -6,7 +6,7 @@
 <rect x="8.80469" y="-5.27148" width="68.5415" height="73.2281" fill="#2662FA"/>
 </g>
 <circle cx="15" cy="15" r="15" fill="#DAED1A"/>
-<path d="M8.38281 15.8816L14.1181 20.2933L22.0593 9.70508" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M8.38281 15.8816L14.1181 20.2933L22.0593 9.70508" stroke="white" strokeWidth="2" strokeLinecap="round"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_215_1355" transform="scale(0.00195312)"/>
