@@ -16,16 +16,16 @@ function Main() {
               className="text-5xl leading-snug xl:text-[66px] mb-8 xl:leading-normal font-bold text-white"
             >
               Hey, I am <br />
-              Richard Lord <br />
+              Adam Boudjemaa <br />
               <span
                 className="inline-block"
                 style={{background: "url('assets/images/hero/hero-one/wide-line.svg') no-repeat bottom"}}
                  
               >
-                Web Developer</span>
+              Senior Blockchain Developer</span>
             </h1>
             <p className="text-2xl text-borderl-500 mb-4">
-              Agency work with top rated talented people provide qulaity
+              Agency work with top rated talented people provide quality
               services.
             </p>
             <div className="flex items-center gap-8 mt-10">
@@ -78,8 +78,7 @@ function Main() {
             <div className="pt-14">
               <p className="text-base text-interface-200">
                 Over
-                <span className="text-new-500 font-semibold text-xl"
-                  >50,000+ client</span>
+                <span className="text-new-500 font-semibold text-xl"> 50,000+ client </span>
                 all over the world.
               </p>
             </div>
@@ -87,7 +86,7 @@ function Main() {
           {/* <!-- Right --> */}
           <div className="lg:w-1/2">
             <div>
-              <img src="assets/images/hero/hero-three/model.png" alt="" />
+              <img src="assets/images/core/1_Adam.png" alt="" />
             </div>
           </div>
         </div>

@@ -12,15 +12,14 @@ function Header() {
              <div className="flex items-center space-x-2">
                <i className="fa-solid fa-envelope text-new-500"></i>
                <a
-                 href="mailto:info@example.com"
-                 className="text-interface-200 text-base"
-                 >info@example.com</a>
+                 href="mailto:boudjemaa.adam@gmail.com"
+                 className="text-interface-200 text-base">boudjemaa.adam@gmail.com</a>
              </div>
              {/* <!-- Phone --> */}
              <div className="space-x-2 hidden md:flex items-center">
                <i className="fa-solid fa-phone text-new-500"></i>
-               <a href="tel:+0168833300" className="text-interface-200 text-base"
-                 >+880 1688 33300</a>
+               <a href="tel:+971585129533" className="text-interface-200 text-base"
+                 >+971 58 512 9533</a>
              </div>
            </div>
          </div>
@@ -34,7 +33,7 @@ function Header() {
              <i className="fa-brands fa-facebook-f"></i>
            </a>
            <a
-             href="http://"
+             href="https://twitter.com/AdamBoudj"
              className="group transition-all text-interface-200 hover:text-new-500"
              target="_blank"
              rel="noopener noreferrer"
@@ -50,7 +49,7 @@ function Header() {
              <i className="fa-brands fa-youtube"></i>
            </a>
            <a
-             href="http://"
+             href="https://www.linkedin.com/in/adamboudjemaa"
              className="group transition-all text-interface-200 hover:text-new-500"
              target="_blank"
              rel="noopener noreferrer"
