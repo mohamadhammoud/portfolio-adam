@@ -1756,8 +1756,7 @@ function Main() {
             </span>
           </h2>
           <p className="text-white text-xl mb-5">
-            Donec dignissim, metus sit amet suscipit mauris vul putate odio,
-            quis cursus nunc urna Aliqum tell us. Quisque hendrerit ..
+          Below are some of the projects I have worked on .. 
           </p>
         </div>
       
@@ -1768,7 +1767,7 @@ function Main() {
           {/* <!-- Single Item --> */}
           <div
             className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
-            style={{ background: "url('assets/images/portfolio/ms-1.jpg') no-repeat center center/cover" }} 
+            style={{ background: "url('assets/images/core/whiteboard_project.svg') no-repeat center center/cover" }} 
              
           >
             <div
@@ -1781,13 +1780,13 @@ function Main() {
                   <a
                     href="portfolio-details.html"
                     className="text-3xl font-semibold text-white"
-                    >User Data Collects for Movie App</a>
+                    >Collaborative Whiteboard</a>
                 </h3>
                 <span className="flex items-center gap-2 text-white">
                   <span
                     className="w-2 h-2 rounded-full inline-block bg-new-500"
                   ></span>
-                  UI UX Project</span>
+                  Full Stack Web3 Project</span>
                 <a
                   href="portfolio-details.html"
                   className="grid place-content-center transition mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
@@ -1812,13 +1811,13 @@ function Main() {
                   <a
                     href="portfolio-details.html"
                     className="text-3xl font-semibold text-white"
-                    >User Data Collects for Movie App</a>
+                    >Simple Chat</a>
                 </h3>
                 <span className="flex items-center gap-2 text-white">
                   <span
                     className="w-2 h-2 rounded-full inline-block bg-new-500"
                   ></span>
-                  UI UX Project</span>
+                  Full Stack Web3 Project</span>
                 <a
                   href="portfolio-details.html"
                   className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
@@ -1843,13 +1842,13 @@ function Main() {
                   <a
                     href="portfolio-details.html"
                     className="text-3xl font-semibold text-white"
-                    >User Data Collects for Movie App</a>
+                    >Coin Flip</a>
                 </h3>
                 <span className="flex items-center gap-2 text-white">
                   <span
                     className="w-2 h-2 rounded-full inline-block bg-new-500"
                   ></span>
-                  UI UX Project</span>
+                  Full Stack Web3 Project</span>
                 <a
                   href="portfolio-details.html"
                   className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
@@ -1874,13 +1873,13 @@ function Main() {
                   <a
                     href="portfolio-details.html"
                     className="text-3xl font-semibold text-white"
-                    >User Data Collects for Movie App</a>
+                    >Diamond Hands</a>
                 </h3>
                 <span className="flex items-center gap-2 text-white">
                   <span
                     className="w-2 h-2 rounded-full inline-block bg-new-500"
                   ></span>
-                  UI UX Project</span>
+                  Full Stack Web3 Project</span>
                 <a
                   href="portfolio-details.html"
                   className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
@@ -1905,13 +1904,13 @@ function Main() {
                   <a
                     href="portfolio-details.html"
                     className="text-3xl font-semibold text-white"
-                    >User Data Collects for Movie App</a>
+                    >Crypto Tracker</a>
                 </h3>
                 <span className="flex items-center gap-2 text-white">
                   <span
                     className="w-2 h-2 rounded-full inline-block bg-new-500"
                   ></span>
-                  UI UX Project</span>
+                  Full Stack Web3 Project</span>
                 <a
                   href="portfolio-details.html"
                   className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
@@ -1931,369 +1930,6 @@ function Main() {
       </div>
     </section>
     {/* <!-- Grid Masonry End --> */}
-
-    {/* <!-- Testimonial --> */}
-    <section
-      className="py-120"
-      style={{
-        background: "url('assets/images/bg/testimonial-bg.jpg') no-repeat center center/cover"}}
-    >
-      <div className="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
-        <div className="max-w-2xl mx-auto text-center mb-10">
-          <h4 className="text-new-500 text-lg font-medium uppercase mb-2">
-            CUSTOMER REVIEWS
-          </h4>
-          <h2 className="text-white font-bold lg:text-5xl text-4xl">
-            What’s Our Customer Say
-          </h2>
-        </div>
-        <div className="swiper twoColumnFeedbackDark">
-          <div className="swiper-wrapper pb-14 lg:pb-16">
-            <div className="swiper-slide">
-              <div className="shadow-custom rounded-lg bg-[#16213C] p-7 relative">
-                <ul className="flex space-x-2 mb-6">
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                </ul>
-                <q className="pb-8 block text-xl text-interface-200 italic">
-                  Pellentesque non nibh sapien a to a find rutrrnec into a
-                  fidn to end make it wow yes to maidn in avestibulu to
-                  mollis.
-                </q>
-                <div className="flex space-x-4">
-                  <img src="assets/images/testimonial/av-7.png" alt="" />
-                  <div>
-                    <h4 className="font-semibold text-white text-xl">
-                      Adward Gull
-                    </h4>
-                    <span className="text-pcolor-500 text-base"
-                      >Travel Agent
-                    </span>
-                  </div>
-                </div>
-                <span className="absolute bottom-7 right-7">
-                  <svg
-                    width="153"
-                    height="108"
-                    viewBox="0 0 153 108"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M31.9637 67.8045C32.2719 71.1359 32.0362 80.1919 23.3608 92.7849C22.7045 93.7351 22.8236 95.0168 23.6385 95.8315C27.1755 99.3685 29.3654 101.6 30.9013 103.162C32.921 105.222 33.843 106.16 35.1926 107.383C36.0936 108.193 37.457 108.207 38.3676 107.413C53.4889 94.2556 70.2842 67.0667 67.8539 33.7564C66.4297 14.197 52.1628 0.000146351 33.9317 0.000147945C15.2223 0.00014958 0.000510688 15.2195 0.000512323 33.9292C0.000513901 51.9781 14.1668 66.7796 31.9637 67.8045ZM33.9317 4.78144C49.5879 4.78144 61.8469 17.1129 63.0864 34.1018C63.0864 34.1018 63.0864 34.1018 63.0864 34.1042C65.8204 71.5678 43.5505 95.9016 36.822 102.345C36.166 101.698 35.4166 100.937 34.3123 99.8122C32.9817 98.4581 31.1605 96.6044 28.4057 93.8401C38.9373 77.6145 36.9504 66.0536 36.0797 64.3959C35.6664 63.6091 34.8189 63.0791 33.9317 63.0791C17.8579 63.0791 4.78181 50.003 4.78181 33.9292C4.78181 17.8576 17.8579 4.78145 33.9317 4.78144Z"
-                      fill="#1E2B48"
-                    />
-                    <path
-                      d="M116.868 67.8041C117.179 71.1261 116.95 80.1752 108.265 92.7845C107.611 93.7348 107.728 95.0164 108.543 95.8311C112.073 99.3612 114.26 101.591 115.794 103.152C117.821 105.216 118.745 106.157 120.094 107.383C120.996 108.193 122.359 108.205 123.27 107.416C138.391 94.2576 155.189 67.0733 152.763 33.756L152.763 33.7536C151.334 14.1966 137.065 -0.000250377 118.834 -0.000248783C100.124 -0.000247148 84.9024 15.2191 84.9024 33.9288C84.9024 51.9799 99.069 66.7838 116.868 67.8041ZM118.834 4.78105C134.487 4.78105 146.754 17.1125 147.996 34.1038L147.996 34.1014C150.722 71.5744 128.452 95.9036 121.724 102.345C121.066 101.698 120.314 100.932 119.207 99.8046C117.879 98.4506 116.06 96.5992 113.31 93.8397C123.842 77.6117 121.855 66.0532 120.984 64.3979C120.571 63.6111 119.721 63.0787 118.834 63.0787C102.76 63.0787 89.6837 50.0026 89.6837 33.9288C89.6837 17.8572 102.76 4.78106 118.834 4.78105Z"
-                      fill="#1E2B48"
-                    />
-                  </svg>
-                </span>
-              </div>
-            </div>
-            <div className="swiper-slide">
-              <div className="shadow-custom rounded-lg bg-[#16213C] p-7 relative">
-                <ul className="flex space-x-2 mb-6">
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                </ul>
-                <q className="pb-8 block text-xl text-interface-200 italic">
-                  Pellentesque non nibh sapien a to a find rutrrnec into a
-                  fidn to end make it wow yes to maidn in avestibulu to
-                  mollis.
-                </q>
-                <div className="flex space-x-4">
-                  <img src="assets/images/testimonial/av-10.png" alt="" />
-                  <div>
-                    <h4 className="font-semibold text-white text-xl">
-                      Esthar Howard
-                    </h4>
-                    <span className="text-pcolor-500 text-base"
-                      >Travel Agent
-                    </span>
-                  </div>
-                </div>
-                <span className="absolute bottom-7 right-7">
-                  <svg
-                    width="153"
-                    height="108"
-                    viewBox="0 0 153 108"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M31.9637 67.8045C32.2719 71.1359 32.0362 80.1919 23.3608 92.7849C22.7045 93.7351 22.8236 95.0168 23.6385 95.8315C27.1755 99.3685 29.3654 101.6 30.9013 103.162C32.921 105.222 33.843 106.16 35.1926 107.383C36.0936 108.193 37.457 108.207 38.3676 107.413C53.4889 94.2556 70.2842 67.0667 67.8539 33.7564C66.4297 14.197 52.1628 0.000146351 33.9317 0.000147945C15.2223 0.00014958 0.000510688 15.2195 0.000512323 33.9292C0.000513901 51.9781 14.1668 66.7796 31.9637 67.8045ZM33.9317 4.78144C49.5879 4.78144 61.8469 17.1129 63.0864 34.1018C63.0864 34.1018 63.0864 34.1018 63.0864 34.1042C65.8204 71.5678 43.5505 95.9016 36.822 102.345C36.166 101.698 35.4166 100.937 34.3123 99.8122C32.9817 98.4581 31.1605 96.6044 28.4057 93.8401C38.9373 77.6145 36.9504 66.0536 36.0797 64.3959C35.6664 63.6091 34.8189 63.0791 33.9317 63.0791C17.8579 63.0791 4.78181 50.003 4.78181 33.9292C4.78181 17.8576 17.8579 4.78145 33.9317 4.78144Z"
-                      fill="#1E2B48"
-                    />
-                    <path
-                      d="M116.868 67.8041C117.179 71.1261 116.95 80.1752 108.265 92.7845C107.611 93.7348 107.728 95.0164 108.543 95.8311C112.073 99.3612 114.26 101.591 115.794 103.152C117.821 105.216 118.745 106.157 120.094 107.383C120.996 108.193 122.359 108.205 123.27 107.416C138.391 94.2576 155.189 67.0733 152.763 33.756L152.763 33.7536C151.334 14.1966 137.065 -0.000250377 118.834 -0.000248783C100.124 -0.000247148 84.9024 15.2191 84.9024 33.9288C84.9024 51.9799 99.069 66.7838 116.868 67.8041ZM118.834 4.78105C134.487 4.78105 146.754 17.1125 147.996 34.1038L147.996 34.1014C150.722 71.5744 128.452 95.9036 121.724 102.345C121.066 101.698 120.314 100.932 119.207 99.8046C117.879 98.4506 116.06 96.5992 113.31 93.8397C123.842 77.6117 121.855 66.0532 120.984 64.3979C120.571 63.6111 119.721 63.0787 118.834 63.0787C102.76 63.0787 89.6837 50.0026 89.6837 33.9288C89.6837 17.8572 102.76 4.78106 118.834 4.78105Z"
-                      fill="#1E2B48"
-                    />
-                  </svg>
-                </span>
-              </div>
-            </div>
-            <div className="swiper-slide">
-              <div className="shadow-custom rounded-lg bg-[#16213C] p-7 relative">
-                <ul className="flex space-x-2 mb-6">
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                  <li className="text-porange-500">
-                    <i className="fa-solid fa-star"></i>
-                  </li>
-                </ul>
-                <q className="pb-8 block text-xl text-interface-200 italic">
-                  Pellentesque non nibh sapien a to a find rutrrnec into a
-                  fidn to end make it wow yes to maidn in avestibulu to
-                  mollis.
-                </q>
-                <div className="flex space-x-4">
-                  <img src="assets/images/testimonial/av-4.png" alt="" />
-                  <div>
-                    <h4 className="font-semibold text-white text-xl">
-                      Hugo Boss
-                    </h4>
-                    <span className="text-pcolor-500 text-base"
-                      >Travel Agent
-                    </span>
-                  </div>
-                </div>
-                <span className="absolute bottom-7 right-7">
-                  <svg
-                    width="153"
-                    height="108"
-                    viewBox="0 0 153 108"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M31.9637 67.8045C32.2719 71.1359 32.0362 80.1919 23.3608 92.7849C22.7045 93.7351 22.8236 95.0168 23.6385 95.8315C27.1755 99.3685 29.3654 101.6 30.9013 103.162C32.921 105.222 33.843 106.16 35.1926 107.383C36.0936 108.193 37.457 108.207 38.3676 107.413C53.4889 94.2556 70.2842 67.0667 67.8539 33.7564C66.4297 14.197 52.1628 0.000146351 33.9317 0.000147945C15.2223 0.00014958 0.000510688 15.2195 0.000512323 33.9292C0.000513901 51.9781 14.1668 66.7796 31.9637 67.8045ZM33.9317 4.78144C49.5879 4.78144 61.8469 17.1129 63.0864 34.1018C63.0864 34.1018 63.0864 34.1018 63.0864 34.1042C65.8204 71.5678 43.5505 95.9016 36.822 102.345C36.166 101.698 35.4166 100.937 34.3123 99.8122C32.9817 98.4581 31.1605 96.6044 28.4057 93.8401C38.9373 77.6145 36.9504 66.0536 36.0797 64.3959C35.6664 63.6091 34.8189 63.0791 33.9317 63.0791C17.8579 63.0791 4.78181 50.003 4.78181 33.9292C4.78181 17.8576 17.8579 4.78145 33.9317 4.78144Z"
-                      fill="#1E2B48"
-                    />
-                    <path
-                      d="M116.868 67.8041C117.179 71.1261 116.95 80.1752 108.265 92.7845C107.611 93.7348 107.728 95.0164 108.543 95.8311C112.073 99.3612 114.26 101.591 115.794 103.152C117.821 105.216 118.745 106.157 120.094 107.383C120.996 108.193 122.359 108.205 123.27 107.416C138.391 94.2576 155.189 67.0733 152.763 33.756L152.763 33.7536C151.334 14.1966 137.065 -0.000250377 118.834 -0.000248783C100.124 -0.000247148 84.9024 15.2191 84.9024 33.9288C84.9024 51.9799 99.069 66.7838 116.868 67.8041ZM118.834 4.78105C134.487 4.78105 146.754 17.1125 147.996 34.1038L147.996 34.1014C150.722 71.5744 128.452 95.9036 121.724 102.345C121.066 101.698 120.314 100.932 119.207 99.8046C117.879 98.4506 116.06 96.5992 113.31 93.8397C123.842 77.6117 121.855 66.0532 120.984 64.3979C120.571 63.6111 119.721 63.0787 118.834 63.0787C102.76 63.0787 89.6837 50.0026 89.6837 33.9288C89.6837 17.8572 102.76 4.78106 118.834 4.78105Z"
-                      fill="#1E2B48"
-                    />
-                  </svg>
-                </span>
-              </div>
-            </div>
-          </div>
-          <div className="service-pagination dev-style swiper-pagination"></div>
-        </div>
-      </div>
-    </section>
-    {/* <!-- Testimonial End --> */}
-
-    {/* <!-- Recent News  --> */}
-    <section className="py-120">
-      <div className="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
-        <div className="max-w-lg mx-auto text-center mb-10">
-          <h2 className="text-white font-bold text-4xl leading-normal lg:text-5xl lg:leading-tight">
-            Stay up to date with our news.
-          </h2>
-        </div>
-
-        <div className="swiper blogSliderDark">
-          <div className="swiper-wrapper pb-14 lg:pb-16">
-            <article className="swiper-slide">
-              <div className="bg-interface-600 shadow-custom rounded p-5">
-                <a href="blog-details.html" className="block mb-6 rounded">
-                  <img
-                    src="assets/images/blogs/th-9.jpg"
-                    className="w-full rounded"
-                    alt="Human"
-                  />
-                </a>
-                <div className="pl-1 pr-12">
-                  <div className="flex space-x-2 mb-3.5">
-                    <a
-                      href="#/"
-                      className="px-2 py-1.5 text-sm text-white bg-interface-50 rounded-md"
-                      >Digital</a>
-                    <a
-                      href="#/"
-                      className="px-2 py-1.5 text-sm text-white bg-interface-50 rounded-md"
-                      >Marketing</a>
-                  </div>
-                  <h3
-                    className="blog-title title-light mb-2 text-white transition font-semibold text-2xl"
-                  >
-                    <a href="blog-details.html"
-                      >Definitive Guide to Make a Daily More Productive
-                      Working Flow.</a>
-                  </h3>
-                  <span className="text-sm text-interface-200">9 days read</span>
-                </div>
-              </div>
-            </article>
-            <article className="swiper-slide">
-              <div className="bg-interface-600 shadow-custom rounded p-5">
-                <a href="blog-details.html" className="block mb-6 rounded">
-                  <img
-                    src="assets/images/blogs/th-9.jpg"
-                    className="w-full rounded"
-                    alt="Human"
-                  />
-                </a>
-                <div className="pl-1 pr-12">
-                  <div className="flex space-x-2 mb-3.5">
-                    <a
-                      href="#/"
-                      className="px-2 py-1.5 text-sm text-white bg-interface-50 rounded-md"
-                      >Digital</a>
-                    <a
-                      href="#/"
-                      className="px-2 py-1.5 text-sm text-white bg-interface-50 rounded-md"
-                      >Marketing</a>
-                  </div>
-                  <h3
-                    className="blog-title title-light mb-2 text-white transition font-semibold text-2xl"
-                  >
-                    <a href="blog-details.html"
-                      >Definitive Guide to Make a Daily More Productive
-                      Working Flow.</a>
-                  </h3>
-                  <span className="text-sm text-interface-200">9 days read</span>
-                </div>
-              </div>
-            </article>
-            <article className="swiper-slide">
-              <div className="bg-interface-600 shadow-custom rounded p-5">
-                <a href="blog-details.html" className="block mb-6 rounded">
-                  <img
-                    src="assets/images/blogs/th-8.jpg"
-                    className="w-full rounded"
-                    alt="Human"
-                  />
-                </a>
-                <div className="pl-1 pr-12">
-                  <div className="flex space-x-2 mb-3.5">
-                    <a
-                      href="#/"
-                      className="px-2 py-1.5 text-sm text-white bg-interface-50 rounded-md"
-                      >Digital</a>
-                    <a
-                      href="#/"
-                      className="px-2 py-1.5 text-sm text-white bg-interface-50 rounded-md"
-                      >Marketing</a>
-                  </div>
-                  <h3
-                    className="blog-title title-light mb-2 text-white transition font-semibold text-2xl"
-                  >
-                    <a href="blog-details.html"
-                      >The Highly Creative UI/UX Workflow from a Silicon
-                      Valley.</a>
-                  </h3>
-                  <span className="text-sm text-interface-200">3 days read</span>
-                </div>
-              </div>
-            </article>
-            <article className="swiper-slide">
-              <div className="bg-interface-600 shadow-custom rounded p-5">
-                <a href="blog-details.html" className="block mb-6 rounded">
-                  <img
-                    src="assets/images/blogs/th-7.jpg"
-                    className="w-full rounded"
-                    alt="Human"
-                  />
-                </a>
-                <div className="pl-1 pr-12">
-                  <div className="flex space-x-2 mb-3.5">
-                    <a
-                      href="#/"
-                      className="px-2 py-1.5 text-sm text-white bg-interface-50 rounded-md"
-                      >Digital</a>
-                    <a
-                      href="#/"
-                      className="px-2 py-1.5 text-sm text-white bg-interface-50 rounded-md"
-                      >Marketing</a>
-                  </div>
-                  <h3
-                    className="blog-title title-light mb-2 text-white font-semibold text-2xl"
-                  >
-                    <a href="blog-details.html"
-                      >Organic Food Isn’t Much Better For Your Future
-                      Health.</a>
-                  </h3>
-                  <span className="text-sm text-interface-200">3 days read</span>
-                </div>
-              </div>
-            </article>
-            <article className="swiper-slide">
-              <div className="bg-interface-600 shadow-custom rounded p-5">
-                <a href="blog-details.html" className="block mb-6 rounded">
-                  <img
-                    src="assets/images/blogs/th-9.jpg"
-                    className="w-full rounded"
-                    alt="Human"
-                  />
-                </a>
-                <div className="pl-1 pr-12">
-                  <div className="flex space-x-2 mb-3.5">
-                    <a
-                      href="#/"
-                      className="px-2 py-1.5 text-sm text-white bg-interface-50 rounded-md"
-                      >Digital</a>
-                    <a
-                      href="#/"
-                      className="px-2 py-1.5 text-sm text-white bg-interface-50 rounded-md"
-                      >Marketing</a>
-                  </div>
-                  <h3
-                    className="blog-title title-light mb-2 text-white transition font-semibold text-2xl"
-                  >
-                    <a href="blog-details.html"
-                      >Definitive Guide to Make a Daily More Productive
-                      Working Flow.</a>
-                  </h3>
-                  <span className="text-sm text-interface-200">9 days read</span>
-                </div>
-              </div>
-            </article>
-          </div>
-          
-          <div className="swiper-pagination service-pagination dev-style"></div>
-        </div>
-      </div>
-    </section>
-    {/* <!-- Recent News End --> */}
 
     {/* <!-- CTA  --> */}
     <section
