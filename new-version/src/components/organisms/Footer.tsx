@@ -155,7 +155,9 @@ function Footer() {
                   >+971 58 512 9533</a>
               </li>
             </ul>
-            <div className="mt-7">
+
+            {/* Subscription model */}
+            {/* <div className="mt-7">
               <h4 className="font-medium text-white text-xl mb-4">
                 Subscribe Newsletter
               </h4>
@@ -173,7 +175,7 @@ function Footer() {
                   </button>
                 </div>
               </form>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
