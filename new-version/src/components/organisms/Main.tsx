@@ -1757,7 +1757,7 @@ function Main() {
                 help.
               </p>
               <a
-                href="contact-us.html"
+                href="./assets/pdf/CV.pdf" download
                 className="bg-new-500 group inline-flex py-4 space-x-2 px-7 rounded-xl text-interface-500 text-lg"
               >
                 <span>Download CV</span>
