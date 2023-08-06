@@ -29,7 +29,7 @@ function Footer() {
                 <i className="fa-brands fa-facebook-f"></i>
               </a>
               <a
-                href="http://"
+                href="https://twitter.com/AdamBoudj"
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
