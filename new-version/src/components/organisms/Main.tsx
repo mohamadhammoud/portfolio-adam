@@ -1570,7 +1570,7 @@ function Main() {
           {/* <!-- Single Item --> */}
           <div
             className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
-            style={{ background: "url('assets/images/core/example.svg') no-repeat center center/cover" }} 
+            style={{ background: "url('assets/images/core/collaborative-whiteboard.svg') no-repeat center center/cover" }} 
              
           >
             <div
@@ -1602,7 +1602,7 @@ function Main() {
           <div
             className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden lg:col-span-2"
             style={{
-              background: "url('assets/images/portfolio/ms-2.jpg') no-repeat center center/cover"}}
+              background: "url('assets/images/core/collaborative-whiteboard.svg') no-repeat center center/cover"}}
           >
             <div
               className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center"
@@ -1633,7 +1633,7 @@ function Main() {
           <div
             className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
             style={{
-              background: "url('assets/images/portfolio/ms-3.jpg') no-repeat center center/cover"}}
+              background: "url('assets/images/core/coin-flip.svg') no-repeat center center/cover"}}
           >
             <div
               className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center"
@@ -1664,7 +1664,7 @@ function Main() {
           <div
             className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
             style={{
-              background: "url('assets/images/portfolio/ms-4.jpg') no-repeat center center/cover"}}
+              background: "url('assets/images/core/diamond-hand.svg') no-repeat center center/cover"}}
           >
             <div
               className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center"
@@ -1695,7 +1695,7 @@ function Main() {
           <div
             className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
             style={{
-              background: "url('assets/images/portfolio/ms-5.jpg') no-repeat center center/cover"}}
+              background: "url('assets/images/core/crypto-tracker.svg') no-repeat center center/cover"}}
           >
             <div
               className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center"
@@ -1753,7 +1753,7 @@ function Main() {
           <div className="xl:w-5/12">
             <div className="max-w-lg">
               <p className="text-2xl text-interface-300 mb-8">
-                I am product designer, who are excited about unique ideas and
+                I am blockchain lead, who is excited about unique ideas and
                 help.
               </p>
               <a
