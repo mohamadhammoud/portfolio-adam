@@ -1,4 +1,5 @@
 import React from 'react'
+import AdamLogo from '../atoms/icons/AdamLogo'
 
 function Header() {
   return (
@@ -24,6 +25,8 @@ function Header() {
            </div>
          </div>
          <div className="flex items-center space-x-6">
+           {/*
+           facebook sticker
            <a
              href="http://"
              className="group transition-all text-interface-200 hover:text-new-500"
@@ -31,7 +34,7 @@ function Header() {
              rel="noopener noreferrer"
            >
              <i className="fa-brands fa-facebook-f"></i>
-           </a>
+           </a> */}
            <a
              href="https://twitter.com/AdamBoudj"
              className="group transition-all text-interface-200 hover:text-new-500"
@@ -40,6 +43,8 @@ function Header() {
            >
              <i className="fa-brands fa-twitter"></i>
            </a>
+           {/*
+           youtube sticker
            <a
              href="http://"
              className="group transition-all text-interface-200 hover:text-new-500"
@@ -47,7 +52,7 @@ function Header() {
              rel="noopener noreferrer"
            >
              <i className="fa-brands fa-youtube"></i>
-           </a>
+           </a> */}
            <a
              href="https://www.linkedin.com/in/adamboudjemaa"
              className="group transition-all text-interface-200 hover:text-new-500"
@@ -65,7 +70,9 @@ function Header() {
          <nav className="nav nav-dev">
            <div className="nav__data">
              <a href="index-dev.html" className="nav__logo">
-               <img src="assets/images/logo/logo-dev-m.svg" alt="" />
+               {/* <img src="assets/images/logo/logo-dev-m.svg" alt="" /> */}
+
+               <AdamLogo />
              </a>
              <div className="nav__toggle" id="nav-toggle">
                <i className="fa-solid fa-bars nav__toggle-menu"></i>
@@ -75,7 +82,7 @@ function Header() {
            <div className="nav__menu" id="nav-menu">
              <ul className="nav__list">
                {/* <!-- Demo--> */}
-               <li className="dropdown__item">
+               {/* <li className="dropdown__item">
                  <div className="nav__link dropdown__button">
                    Home<i className="fa-solid fa-angle-down dropdown__arrow"></i>
                  </div>
@@ -101,9 +108,9 @@ function Header() {
                      </li>
                    </ul>
                  </div>
-               </li>
+               </li> */}
                {/* <!-- Services--> */}
-               <li className="dropdown__item">
+               {/* <li className="dropdown__item">
                  <div className="nav__link dropdown__button">
                    Services<i className="fa-solid fa-angle-down dropdown__arrow"></i>
                  </div>
@@ -120,9 +127,9 @@ function Header() {
                      </li>
                    </ul>
                  </div>
-               </li>
+               </li> */}
                {/* <!-- Portfolio--> */}
-               <li className="dropdown__item">
+               {/* <li className="dropdown__item">
                  <div className="nav__link dropdown__button">
                    Portfolio<i className="fa-solid fa-angle-down dropdown__arrow"></i>
                  </div>
@@ -142,9 +149,9 @@ function Header() {
                      </li>
                    </ul>
                  </div>
-               </li>
+               </li> */}
                {/* <!-- Blog--> */}
-               <li className="dropdown__item">
+               {/* <li className="dropdown__item">
                  <div className="nav__link dropdown__button">
                    Blog<i className="fa-solid fa-angle-down dropdown__arrow"></i>
                  </div>
@@ -161,7 +168,7 @@ function Header() {
                      </li>
                    </ul>
                  </div>
-               </li>
+               </li> */}
                {/* <!-- Pages--> */}
                <li className="dropdown__item">
                  <div className="nav__link dropdown__button">

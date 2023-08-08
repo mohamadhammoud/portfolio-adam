@@ -1,4 +1,5 @@
 import React from 'react'
+import AdamLogo from '../atoms/icons/AdamLogo'
 
 function Footer() {
   return (
@@ -12,22 +13,24 @@ function Footer() {
           className="grid md:grid-cols-12 divide-y lg:divide-y-0 lg:divide-x divide-white divide-opacity-10 justify-between gap-10"
         >
           <div className="md:col-span-6 lg:col-span-3">
-            <a href="index.html" className="block mb-7">
-              <img src="assets/images/logo/logo-dev-f.svg" alt="" />
+            <a href="index.html" className="block mb-7 bg-white border-6 rounded">
+              {/* <img src="assets/images/logo/logo-dev-f.svg" alt="" /> */}
+
+              <AdamLogo />
             </a>
             <p className="text-white text-base">
               We work with a passion of taking challenges and creating new ones
               in blockchain development sector.
             </p>
             <div className="flex space-x-3 mt-7">
-              <a
+              {/* <a
                 href="http://"
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <i className="fa-brands fa-facebook-f"></i>
-              </a>
+              </a> */}
               <a
                 href="https://twitter.com/AdamBoudj"
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
@@ -36,22 +39,22 @@ function Footer() {
               >
                 <i className="fa-brands fa-twitter"></i>
               </a>
-              <a
+              {/* <a
                 href="http://"
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <i className="fa-brands fa-instagram"></i>
-              </a>
-              <a
+              </a> */}
+              {/* <a
                 href="http://"
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <i className="fa-brands fa-youtube"></i>
-              </a>
+              </a> */}
             </div>
           </div>
           <div className="md:col-span-3 lg:col-span-2 pt-8 lg:pt-0 lg:pl-12">

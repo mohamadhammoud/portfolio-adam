@@ -26,7 +26,7 @@ function Main() {
               className="text-5xl leading-snug xl:text-[66px] mb-8 xl:leading-normal font-bold text-white"
             >
               Hey, I am <br />
-              Adam Boudjemaa <br />
+            <span className="text-new-500">Adam Boudjemaa</span> <br />
               <span
                 className="inline-block"
                 style={{background: "url('assets/images/hero/hero-one/wide-line.svg') no-repeat bottom"}}
@@ -35,8 +35,7 @@ function Main() {
               Blockchain Lead</span>
             </h1>
             <p className="text-2xl text-borderl-500 mb-4">
-              Agency work with top rated talented people provide blockchain quality
-              services.
+            Turn your ideas into reality with trusted <br /> top-rated blockchain expertise.
             </p>
             <div className="flex items-center gap-8 mt-10">
               <a
@@ -60,7 +59,7 @@ function Main() {
                   />
                 </svg>
               </a>
-              <a href="https://www.youtube.com/watch?v=XNhiqQJ01hQ" className="flex video-popup items-center gap-5">
+              {/* <a href="https://www.youtube.com/watch?v=XNhiqQJ01hQ" className="flex video-popup items-center gap-5">
                 <span
                   className="w-[60px] pulsing-dev h-[60px] rounded-full grid place-items-center border border-new-500"
                 >
@@ -83,7 +82,7 @@ function Main() {
                   <br />
                   <span className="text-base font-medium text-interface-200"
                     >Intro Video</span></span>
-              </a>
+              </a> */}
             </div>
             <div className="pt-14">
               <p className="text-base text-interface-200">
@@ -153,7 +152,7 @@ function Main() {
               </svg>
               <span
                 className="text-white transition-all group-hover:text-interface-100 text-2xl font-semibold"
-                >S. Overlfow</span>
+                >S. Overflow</span>
             </a>
           </div>
           <div className="group">
@@ -280,7 +279,7 @@ function Main() {
             <h2 className="text-white font-bold lg:text-5xl text-4xl capitalize leading-snug">
               Expertise
               <span className="relative">
-                <span className="relative z-20">Service!</span>
+                <span className="relative z-20"> Service!</span>
                 <svg
                   className="absolute  -left-1 z-0 -top-2 hidden md:block"
                   width="206"
@@ -874,7 +873,7 @@ function Main() {
                   <h3 className="text-2xl text-white font-semibold mb-2">
                     Adam Boudjemaa
                   </h3>
-                  <span className="text-white text-lg">Blockchain Lead</span>
+                  <span className="text-white text-lg">Blockchain Lead Developer</span>
                 </div>
                 <div className="flex space-x-2 items-center">
                   <h3 className="text-7xl leading-none text-new-500 font-bold">
@@ -882,30 +881,20 @@ function Main() {
                   </h3>
                   <p className="text-lg text-white font-medium">
                     Years <br />
-                    Experience
+                    Experience <br/>
+                    of Blockchain Mastery
                   </p>
                 </div>
               </div>
-              <p className="text-white text-lg mt-5 leading-normal">
-              Hi there! I'm Adam Boudjemaa, a passionate blockchain developer with over
-      7 years of experience in the industry. My expertise lies in Solidity,
-      Web3, and smart contract development, having successfully deployed 300+
-      smart contracts across more than 10 different EVM blockchains, including
-      Ethereum, Fantom, Binance Chain, and Polygon. I'm proud to have
-      co-authored ERC-3643, one of the most widely used security token standards
-      for real-world assets (RWA). This groundbreaking DeFi standard has been
-      mentioned by Binance in their research report, highlighting its
-      significance in the tokenization of real-world assets .
-              </p>
-              <p className="text-white text-lg leading-normal">
-              As an expert in Solidity, EVM, Huff, and Assembly, I strive to
-      create cutting-edge solutions in the ever-evolving world of blockchain
-      technology. My goal is to drive innovation and help shape the future of
-      decentralized finance. Let's connect and explore the endless possibilities
-      of the blockchain world together!
-              </p>
-            
-            </div>
+              <ul className="list-disc list-inside">
+        <li className="text-white text-lg mt-5 leading-normal">I specialize in Solidity, Web3, and smart contract creation. Over the years, I've deployed over 500 smart contracts on renowned EVM blockchains, including Ethereum, Fantom, Polygon, Avalanche, and Binance Chain.</li>
+        <li className="text-white text-lg mt-5 leading-normal"> My significant contributions to the blockchain community include co-authoring the groundbreaking DeFi standard ERC-3643 for tokenizing real-world assets and ERC-6960 (Dual Layer Token - DLT), a pivotal standard for fractionalizing assets. Both of these standards have gained recognition from Binance research.</li>
+        <li className="text-white text-lg mt-5 leading-normal">
+        In addition to my technical contributions, I'm honored to have won the "Hackernoon Contributor of the Year" awards in the "Decentralization" and "Internet" categories. With a deep expertise in Solidity, EVM, Huff, and Assembly, I'm driven by a passion to innovate in the realm of decentralized finance. Together, let's explore and harness the immense potential of blockchain.
+          
+        </li>
+      </ul>
+             </div>
             <div className="mx-auto">
               <img src="assets/images/core/2_Adam.png" className="w-full" alt="" />
             </div>
