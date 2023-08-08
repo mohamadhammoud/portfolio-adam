@@ -560,11 +560,10 @@ function Main() {
                   </svg>
                 </div>
                 <h3 className="mb-6 font-semibold text-2xl text-white">
-                  DApp Development
+                Solidity & EVM Mastery
                 </h3>
                 <p className="pb-6 text-white text-base">
-                Experience the future of decentralized solutions.
-                Our DApp development expertise empowers businesses with secure, transparent, and efficient blockchain-based applications for enhanced performance and user trust.
+                Harness the power of the Ethereum Virtual Machine. With deep expertise in Solidity, I deliver robust smart contracts optimized for performance and security.
                 </p>
                 <a
                   href="service-pd.html"
@@ -655,11 +654,11 @@ function Main() {
                   </svg>
                 </div>
                 <h3 className="mb-6 font-semibold text-2xl text-white">
-                  Web3 Integration
+                Advanced Blockchain Development
                 </h3>
                 <p className="pb-6 text-white text-base">
-                Step into the decentralized world with seamless Web3 integration.
-                Connect your platform to blockchain networks using ethers.js and web3.js, enabling secure and innovative user-centric experiences.
+                Delve into the intricacies of Assembly, Huff, and Yul. I ensure your projects leverage the best of blockchain's low-level languages for maximum efficiency.
+
                 </p>
                 <a
                   href="service-pd.html"
@@ -811,11 +810,320 @@ function Main() {
                   </svg>
                 </div>
                 <h3 className="mb-6 font-semibold text-2xl text-white">
-                  Full Stack Applications
+                DeFi Solutions Expert
                 </h3>
                 <p className="pb-6 text-white text-base">
-                Empower your business with versatile Full Stack Applications.
-                Our end-to-end development expertise delivers powerful, scalable, and feature-rich solutions, catering to all your digital needs for success.
+                Redefine finance with decentralized solutions. I build DeFi projects that revolutionize how we interact with digital assets and financial systems.
+                </p>
+                <a
+                  href="service-pd.html"
+                  className="underline flex relative group-hover:text-new-500 z-10 items-center text-white"
+                >
+                  <span>Learn more</span>
+                  <svg
+                    className="stroke-white group-hover:stroke-new-500"
+                    width="25"
+                    height="26"
+                    viewBox="0 0 25 26"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M7.10156 18.0748L17.2491 7.92383"
+                      strokeWidth="1.5"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                    <path
+                      d="M7.10156 7.92383H17.2491V18.0748"
+                      strokeWidth="1.5"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                  </svg>
+                </a>
+                <img
+                  src="assets/images/bg/services-circle.png"
+                  className="absolute top-5 -right-12 opacity-0 group-hover:opacity-100 transition-opacity"
+                  alt=""
+                />
+              </div>
+            </article>
+            <article className="swiper-slide">
+              <div
+                className="relative transition duration-200 cursor-pointer border border-transparent hover:border-new-500 bg-interface-600 px-7 py-8 group shadow-customThree rounded-custom"
+              >
+                <div
+                  className="w-[70px] h-[70px] rounded-full bg-new-500 group-hover:bg-opacity-10 bg-opacity-10 pl-5 pt-3 mb-6"
+                >
+                  <svg
+                    className="stroke-new-500"
+                    width="58"
+                    height="58"
+                    viewBox="0 0 58 58"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g clipPath="url(#clip0_123_2937)">
+                      <path
+                        d="M53.5613 4.88276C51.5972 2.91869 48.3713 3.06301 46.5905 5.19462L38.5469 14.8224L43.6218 19.8973L53.2496 11.8536C55.3809 10.0727 55.5252 6.84671 53.5613 4.88276Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M57.1515 21.3477V46.9823C57.1515 51.136 53.7846 54.5041 49.6309 54.5041H42.6758C46.8295 54.5041 50.1964 51.136 50.1964 46.9823V21.3477H57.1515Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M10.0598 17.3598C11.3095 17.3598 12.3227 16.3467 12.3227 15.0969C12.3227 13.8471 11.3095 12.834 10.0598 12.834C8.81001 12.834 7.79688 13.8471 7.79688 15.0969C7.79688 16.3467 8.81001 17.3598 10.0598 17.3598Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M18.052 17.3598C19.3017 17.3598 20.3149 16.3467 20.3149 15.0969C20.3149 13.8471 19.3017 12.834 18.052 12.834C16.8022 12.834 15.7891 13.8471 15.7891 15.0969C15.7891 16.3467 16.8022 17.3598 18.052 17.3598Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M26.0442 17.3598C27.2939 17.3598 28.3071 16.3467 28.3071 15.0969C28.3071 13.8471 27.2939 12.834 26.0442 12.834C24.7944 12.834 23.7812 13.8471 23.7812 15.0969C23.7812 16.3467 24.7944 17.3598 26.0442 17.3598Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M38.547 14.8223L43.5002 8.89365C43.229 8.86408 42.9539 8.84766 42.6747 8.84766H8.37137C4.21769 8.84766 0.849609 12.2146 0.849609 16.3694V21.3474H29.2728C31.0918 19.1368 31.5654 16.2453 38.547 14.8223Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M43.6229 19.8964C43.5223 20.4003 43.3941 20.8834 43.2422 21.3466H50.1964V16.3686C50.1964 15.7535 50.1209 15.1562 49.9816 14.584L43.6229 19.8964Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M54.3544 10.5176C54.0802 11.0121 53.7118 11.4664 53.2495 11.8526L49.9805 14.5838C50.1197 15.1561 50.1952 15.7533 50.1952 16.3684V21.3465H57.1503V16.3684C57.1503 14.0044 56.0593 11.8964 54.3544 10.5176Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M43.241 21.3477C41.2519 27.413 35.055 29.9169 29.538 26.8586C27.7016 25.8405 27.3455 23.3383 28.8237 21.847C28.9839 21.6853 29.1323 21.5185 29.2728 21.3477H0.849609V46.9823C0.849609 51.136 4.21769 54.5041 8.37137 54.5041H42.6747C46.8284 54.5041 50.1954 51.136 50.1954 46.9823V21.3477H43.241Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M38.5475 14.8223C31.0265 16.3552 31.0585 19.5924 28.8243 21.8466C27.3462 23.338 27.7021 25.8401 29.5385 26.8582C35.4768 30.1501 42.2039 26.9986 43.6223 19.8972L38.5475 14.8223Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M19.2668 32.2168H10.7042C9.09859 32.2168 7.79688 33.5185 7.79688 35.1242V43.6868C7.79688 45.2924 9.09859 46.5941 10.7042 46.5941H19.2668C20.8725 46.5941 22.1742 45.2924 22.1742 43.6868V35.1242C22.1742 33.5185 20.8725 32.2168 19.2668 32.2168Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M41.2974 32.6719H29.0196C27.7359 32.6719 26.6953 33.7125 26.6953 34.9962C26.6953 36.2799 27.7359 37.3205 29.0196 37.3205H41.2975C42.5812 37.3205 43.6218 36.2799 43.6218 34.9962C43.6218 33.7125 42.5811 32.6719 41.2974 32.6719Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M41.2974 41.4902H29.0196C27.7359 41.4902 26.6953 42.5308 26.6953 43.8145C26.6953 45.0982 27.7359 46.1388 29.0196 46.1388H41.2975C42.5812 46.1388 43.6218 45.0982 43.6218 43.8145C43.6218 42.5309 42.5811 41.4902 41.2974 41.4902Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                    </g>
+                    <defs>
+                      <clipPath id="clip0_123_2937">
+                        <rect width="58" height="58" fill="white" />
+                      </clipPath>
+                    </defs>
+                  </svg>
+                </div>
+                <h3 className="mb-6 font-semibold text-2xl text-white">
+                Backend & Integration Specialist
+                </h3>
+                <p className="pb-6 text-white text-base">
+                Seamless integration with blockchain networks. Expertise in Web3 and backend solutions, ensuring your platform is robust and ready for the future.
+                </p>
+                <a
+                  href="service-pd.html"
+                  className="underline flex relative group-hover:text-new-500 z-10 items-center text-white"
+                >
+                  <span>Learn more</span>
+                  <svg
+                    className="stroke-white group-hover:stroke-new-500"
+                    width="25"
+                    height="26"
+                    viewBox="0 0 25 26"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M7.10156 18.0748L17.2491 7.92383"
+                      strokeWidth="1.5"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                    <path
+                      d="M7.10156 7.92383H17.2491V18.0748"
+                      strokeWidth="1.5"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                  </svg>
+                </a>
+                <img
+                  src="assets/images/bg/services-circle.png"
+                  className="absolute top-5 -right-12 opacity-0 group-hover:opacity-100 transition-opacity"
+                  alt=""
+                />
+              </div>
+            </article>
+            <article className="swiper-slide">
+              <div
+                className="relative transition duration-200 cursor-pointer border border-transparent hover:border-new-500 bg-interface-600 px-7 py-8 group shadow-customThree rounded-custom"
+              >
+                <div
+                  className="w-[70px] h-[70px] rounded-full bg-new-500 group-hover:bg-opacity-10 bg-opacity-10 pl-5 pt-3 mb-6"
+                >
+                  <svg
+                    className="stroke-new-500"
+                    width="58"
+                    height="58"
+                    viewBox="0 0 58 58"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <g clipPath="url(#clip0_123_2937)">
+                      <path
+                        d="M53.5613 4.88276C51.5972 2.91869 48.3713 3.06301 46.5905 5.19462L38.5469 14.8224L43.6218 19.8973L53.2496 11.8536C55.3809 10.0727 55.5252 6.84671 53.5613 4.88276Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M57.1515 21.3477V46.9823C57.1515 51.136 53.7846 54.5041 49.6309 54.5041H42.6758C46.8295 54.5041 50.1964 51.136 50.1964 46.9823V21.3477H57.1515Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M10.0598 17.3598C11.3095 17.3598 12.3227 16.3467 12.3227 15.0969C12.3227 13.8471 11.3095 12.834 10.0598 12.834C8.81001 12.834 7.79688 13.8471 7.79688 15.0969C7.79688 16.3467 8.81001 17.3598 10.0598 17.3598Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M18.052 17.3598C19.3017 17.3598 20.3149 16.3467 20.3149 15.0969C20.3149 13.8471 19.3017 12.834 18.052 12.834C16.8022 12.834 15.7891 13.8471 15.7891 15.0969C15.7891 16.3467 16.8022 17.3598 18.052 17.3598Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M26.0442 17.3598C27.2939 17.3598 28.3071 16.3467 28.3071 15.0969C28.3071 13.8471 27.2939 12.834 26.0442 12.834C24.7944 12.834 23.7812 13.8471 23.7812 15.0969C23.7812 16.3467 24.7944 17.3598 26.0442 17.3598Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M38.547 14.8223L43.5002 8.89365C43.229 8.86408 42.9539 8.84766 42.6747 8.84766H8.37137C4.21769 8.84766 0.849609 12.2146 0.849609 16.3694V21.3474H29.2728C31.0918 19.1368 31.5654 16.2453 38.547 14.8223Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M43.6229 19.8964C43.5223 20.4003 43.3941 20.8834 43.2422 21.3466H50.1964V16.3686C50.1964 15.7535 50.1209 15.1562 49.9816 14.584L43.6229 19.8964Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M54.3544 10.5176C54.0802 11.0121 53.7118 11.4664 53.2495 11.8526L49.9805 14.5838C50.1197 15.1561 50.1952 15.7533 50.1952 16.3684V21.3465H57.1503V16.3684C57.1503 14.0044 56.0593 11.8964 54.3544 10.5176Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M43.241 21.3477C41.2519 27.413 35.055 29.9169 29.538 26.8586C27.7016 25.8405 27.3455 23.3383 28.8237 21.847C28.9839 21.6853 29.1323 21.5185 29.2728 21.3477H0.849609V46.9823C0.849609 51.136 4.21769 54.5041 8.37137 54.5041H42.6747C46.8284 54.5041 50.1954 51.136 50.1954 46.9823V21.3477H43.241Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M38.5475 14.8223C31.0265 16.3552 31.0585 19.5924 28.8243 21.8466C27.3462 23.338 27.7021 25.8401 29.5385 26.8582C35.4768 30.1501 42.2039 26.9986 43.6223 19.8972L38.5475 14.8223Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M19.2668 32.2168H10.7042C9.09859 32.2168 7.79688 33.5185 7.79688 35.1242V43.6868C7.79688 45.2924 9.09859 46.5941 10.7042 46.5941H19.2668C20.8725 46.5941 22.1742 45.2924 22.1742 43.6868V35.1242C22.1742 33.5185 20.8725 32.2168 19.2668 32.2168Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M41.2974 32.6719H29.0196C27.7359 32.6719 26.6953 33.7125 26.6953 34.9962C26.6953 36.2799 27.7359 37.3205 29.0196 37.3205H41.2975C42.5812 37.3205 43.6218 36.2799 43.6218 34.9962C43.6218 33.7125 42.5811 32.6719 41.2974 32.6719Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                      <path
+                        d="M41.2974 41.4902H29.0196C27.7359 41.4902 26.6953 42.5308 26.6953 43.8145C26.6953 45.0982 27.7359 46.1388 29.0196 46.1388H41.2975C42.5812 46.1388 43.6218 45.0982 43.6218 43.8145C43.6218 42.5309 42.5811 41.4902 41.2974 41.4902Z"
+                        strokeWidth="2"
+                        strokeMiterlimit="10"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      />
+                    </g>
+                    <defs>
+                      <clipPath id="clip0_123_2937">
+                        <rect width="58" height="58" fill="white" />
+                      </clipPath>
+                    </defs>
+                  </svg>
+                </div>
+                <h3 className="mb-6 font-semibold text-2xl text-white">
+                Security Audits & Account Abstraction
+                </h3>
+                <p className="pb-6 text-white text-base">
+                Safety first in every project. I conduct meticulous security audits and implement account abstraction techniques, ensuring your blockchain solutions are bulletproof.
                 </p>
                 <a
                   href="service-pd.html"
