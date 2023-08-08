@@ -1621,43 +1621,61 @@ function Main() {
                   <a
                     href="#/"
                     className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >Html</a>
+                    >Solidity</a>
                 </li>
                 <li>
                   <a
                     href="#/"
                     className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >CSS</a>
+                    >EVM</a>
                 </li>
                 <li>
                   <a
                     href="#/"
                     className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >Front-end</a>
+                    >Yul Assembly</a>
                 </li>
                 <li>
                   <a
                     href="#/"
                     className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >React.js</a>
+                    >Huff</a>
                 </li>
                 <li>
                   <a
                     href="#/"
                     className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >Next.js</a>
+                    >Hardhat</a>
                 </li>
                 <li>
                   <a
                     href="#/"
                     className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >Back-end</a>
+                    >Foundry</a>
                 </li>
                 <li>
                   <a
                     href="#/"
                     className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >Javascript</a>
+                    >Blockchain</a>
+                </li>
+                <li>
+                  <a
+                    href="#/"
+                    className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
+                    >Chainlink</a>
+                </li>
+                <li>
+                  <a
+                    href="#/"
+                    className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
+                    >IPFS</a>
+                </li>
+                <li>
+                  <a
+                    href="#/"
+                    className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
+                    >Ethers.js</a>
                 </li>
                 <li>
                   <a
@@ -1681,49 +1699,19 @@ function Main() {
                   <a
                     href="#/"
                     className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >Blockchain</a>
-                </li>
-                <li>
-                  <a
-                    href="#/"
-                    className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >Solidity</a>
-                </li>
-                <li>
-                  <a
-                    href="#/"
-                    className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >Hardhat</a>
-                </li>
-                <li>
-                  <a
-                    href="#/"
-                    className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >Foundry</a>
-                </li>
-                <li>
-                  <a
-                    href="#/"
-                    className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >Chainlink</a>
-                </li>
-                <li>
-                  <a
-                    href="#/"
-                    className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >IPFS</a>
-                </li>
-                <li>
-                  <a
-                    href="#/"
-                    className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
                     >Socket.io</a>
                 </li>
                 <li>
                   <a
                     href="#/"
                     className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
-                    >Figma</a>
+                    >React.js</a>
+                </li>
+                <li>
+                  <a
+                    href="#/"
+                    className="bg-[#16213B] block px-4 py-3 hover:bg-new-500 hover:text-interface-100 transition rounded-md text-white text-xl"
+                    >Next.js</a>
                 </li>
               </ul>
             </div>
