@@ -23,7 +23,7 @@
     "ecmaVersion": "latest",
     "sourceType": "module",
     "tsconfigRootDir": ".",
-    "project": ["./tsconfig.json"]
+    "project": "./tsconfig.json"
   },
   // Configuring third-party plugins
   "plugins": ["react", "@typescript-eslint"],
@@ -42,19 +42,8 @@
     "react/no-unescaped-entities": "off",
     "linebreak-style": "off",
     "react/jsx-uses-react": "error",
-    // Configure prettier
-    "prettier/prettier": [
-      "error",
-      {
-        "printWidth": 80,
-        "endOfLine": "lf",
-        "singleQuote": true,
-        "tabWidth": 2,
-        "indentStyle": "space",
-        "useTabs": true,
-        "trailingComma": "es5"
-      }
-    ],
+    "prettier/prettier": "error",
+
     // Disallow the `any` type.
     "@typescript-eslint/no-explicit-any": "warn",
     "@typescript-eslint/ban-types": [
