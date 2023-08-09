@@ -1,19 +1,21 @@
-import React from 'react'
-import AdamLogo from '../atoms/icons/AdamLogo'
+import AdamLogo from '../atoms/icons/AdamLogo';
 
 function Footer() {
   return (
     <footer
       className="lg:py-120 py-20 border-b border-[#1C2134]"
       style={{
-        background: "url('assets/images/bg/dev-ft-bg.jpg') no-repeat center center/cover"}}
+        background:
+          "url('assets/images/bg/dev-ft-bg.jpg') no-repeat center center/cover"
+      }}
     >
       <div className="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
-        <div
-          className="grid md:grid-cols-12 divide-y lg:divide-y-0 lg:divide-x divide-white divide-opacity-10 justify-between gap-10"
-        >
+        <div className="grid md:grid-cols-12 divide-y lg:divide-y-0 lg:divide-x divide-white divide-opacity-10 justify-between gap-10">
           <div className="md:col-span-6 lg:col-span-3">
-            <a href="index.html" className="block mb-7 bg-white border-6 rounded">
+            <a
+              href="index.html"
+              className="block mb-7 bg-white border-6 rounded"
+            >
               {/* <img src="assets/images/logo/logo-dev-f.svg" alt="" /> */}
 
               <AdamLogo />
@@ -65,25 +67,33 @@ function Footer() {
                   <a
                     href="#"
                     className="font-medium transition hover:text-new-500 text-base text-white"
-                    >Home</a>
+                  >
+                    Home
+                  </a>
                 </li>
                 <li>
                   <a
                     href="#"
                     className="font-medium transition hover:text-new-500 text-base text-white"
-                    >Service</a>
+                  >
+                    Service
+                  </a>
                 </li>
                 <li>
                   <a
                     href="#"
                     className="font-medium transition hover:text-new-500 text-base text-white"
-                    >Blog</a>
+                  >
+                    Blog
+                  </a>
                 </li>
                 <li>
                   <a
                     href="#"
                     className="font-medium transition hover:text-new-500 text-base text-white"
-                    >Contact Us</a >
+                  >
+                    Contact Us
+                  </a>
                 </li>
               </ul>
             </nav>
@@ -96,25 +106,33 @@ function Footer() {
                   <a
                     href="#"
                     className="font-medium transition hover:text-new-500 text-base text-white"
-                    >Contact & Faq</a >
+                  >
+                    Contact & Faq
+                  </a>
                 </li>
                 <li>
                   <a
                     href="#"
                     className="font-medium transition hover:text-new-500 text-base text-white"
-                    >Track Your Order</a>
+                  >
+                    Track Your Order
+                  </a>
                 </li>
                 <li>
                   <a
                     href="#"
                     className="font-medium transition hover:text-new-500 text-base text-white"
-                    >Shipping</a>
+                  >
+                    Shipping
+                  </a>
                 </li>
                 <li>
                   <a
                     href="#"
                     className="font-medium transition hover:text-new-500 text-base text-white"
-                    >Trade Program</a>
+                  >
+                    Trade Program
+                  </a>
                 </li>
               </ul>
             </nav>
@@ -154,8 +172,9 @@ function Footer() {
                     fill="#DAED1A"
                   />
                 </svg>
-                <a href="tel:+971585129533" className="text-white text-base"
-                  >+971 58 512 9533</a>
+                <a href="tel:+971585129533" className="text-white text-base">
+                  +971 58 512 9533
+                </a>
               </li>
             </ul>
 
@@ -183,7 +202,7 @@ function Footer() {
         </div>
       </div>
     </footer>
-  )
+  );
 }
 
-export default Footer
+export default Footer;
