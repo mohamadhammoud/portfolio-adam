@@ -301,9 +301,7 @@ function Main() {
           </div>
           <div className="xl:col-span-3">
             <p className="text-white text-xl">
-              We put your ideas and thus your wishes in the form of a unique
-              web, decentralized projects that inspire you and your customers. We’ve expert
-              team to solve your problems.
+            Guiding you through the blockchain journey, one challenge at a time. Together, we'll innovate and shape the future of decentralized tech.
             </p>
           </div>
         </div>
@@ -2092,17 +2090,17 @@ function Main() {
               >
                 <h3 className="text-white">
                   <a
-                    href="portfolio-details.html"
+                    href="https://eips.ethereum.org/EIPS/eip-3643"
                     className="text-3xl font-semibold text-white"
-                    >Collaborative Whiteboard</a>
+                    >ERC-3643</a>
                 </h3>
                 <span className="flex items-center gap-2 text-white">
                   <span
                     className="w-2 h-2 rounded-full inline-block bg-new-500"
                   ></span>
-                  Full Stack Web3 Project</span>
+                  Ethereum Request for Comment</span>
                 <a
-                  href="portfolio-details.html"
+                  href="https://eips.ethereum.org/EIPS/eip-3643"
                   className="grid place-content-center transition mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
                   >View Project
                 </a>
@@ -2123,17 +2121,17 @@ function Main() {
               >
                 <h3 className="text-white">
                   <a
-                    href="portfolio-details.html"
+                    href="https://eips.ethereum.org/EIPS/eip-6960"
                     className="text-3xl font-semibold text-white"
-                    >Simple Chat</a>
+                    >ERC-6960</a>
                 </h3>
                 <span className="flex items-center gap-2 text-white">
                   <span
                     className="w-2 h-2 rounded-full inline-block bg-new-500"
                   ></span>
-                  Full Stack Web3 Project</span>
+                  Ethereum Request for Comment</span>
                 <a
-                  href="portfolio-details.html"
+                  href="https://eips.ethereum.org/EIPS/eip-6960"
                   className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
                   >View Project
                 </a>
@@ -2154,17 +2152,17 @@ function Main() {
               >
                 <h3 className="text-white">
                   <a
-                    href="portfolio-details.html"
+                    href="https://github.com/Aboudjem/Yul-ERC20-assembly"
                     className="text-3xl font-semibold text-white"
-                    >Coin Flip</a>
+                    >Yul ERC20 assembly</a>
                 </h3>
                 <span className="flex items-center gap-2 text-white">
                   <span
                     className="w-2 h-2 rounded-full inline-block bg-new-500"
                   ></span>
-                  Full Stack Web3 Project</span>
+                  Yul Developer Experience Project</span>
                 <a
-                  href="portfolio-details.html"
+                  href="https://github.com/Aboudjem/Yul-ERC20-assembly"
                   className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
                   >View Project
                 </a>
@@ -2185,9 +2183,9 @@ function Main() {
               >
                 <h3 className="text-white">
                   <a
-                    href="portfolio-details.html"
+                    href="https://github.com/Aboudjem/staking-platform-fixed-apy"
                     className="text-3xl font-semibold text-white"
-                    >Diamond Hands</a>
+                    >Staking platform</a>
                 </h3>
                 <span className="flex items-center gap-2 text-white">
                   <span
@@ -2195,7 +2193,7 @@ function Main() {
                   ></span>
                   Full Stack Web3 Project</span>
                 <a
-                  href="portfolio-details.html"
+                  href="https://github.com/Aboudjem/staking-platform-fixed-apy"
                   className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
                   >View Project
                 </a>
@@ -2216,17 +2214,17 @@ function Main() {
               >
                 <h3 className="text-white">
                   <a
-                    href="portfolio-details.html"
+                    href="https://github.com/Aboudjem/Yul-ERC1155-assembly"
                     className="text-3xl font-semibold text-white"
-                    >Crypto Tracker</a>
+                    >Yul ERC1155 Assembly</a>
                 </h3>
                 <span className="flex items-center gap-2 text-white">
                   <span
                     className="w-2 h-2 rounded-full inline-block bg-new-500"
                   ></span>
-                  Full Stack Web3 Project</span>
+                  Yul Developer Experience Project</span>
                 <a
-                  href="portfolio-details.html"
+                  href="https://github.com/Aboudjem/Yul-ERC1155-assembly"
                   className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
                   >View Project
                 </a>
@@ -2257,15 +2255,14 @@ function Main() {
         >
           <div className="xl:w-6/12">
             <h2 className="text-4xl leading-normal lg:text-5xl lg:leading-snug font-bold text-white">
-              Have a project in mind? <br />
-              Let’s get to work.👋📫
+            Got a blockchain vision? <br />
+            Let's bring it to life!👋📫
             </h2>
           </div>
           <div className="xl:w-5/12">
             <div className="max-w-lg">
               <p className="text-2xl text-interface-300 mb-8">
-                I am blockchain lead, who is excited about unique ideas and
-                help.
+              With me by your side, we'll transform your unique ideas into reality.
               </p>
               <a
                 href="./assets/pdf/CV.pdf" download
