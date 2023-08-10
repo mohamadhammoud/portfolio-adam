@@ -1645,10 +1645,10 @@ function Main() {
                 </h3>
               </div>
               <div className="grid items-center grid-cols-2 gap-6 md:grid-cols-3 xl:grid-cols-6 xl:divide-x divide-white divide-opacity-20 mt-10 pb-8">
-                <a href="#/" className="px-7">
+                <a href="#/" className="px-7 gray-scale">
                   <Polytrade />
                 </a>
-                <a href="#/" className="px-7">
+                <a href="#/" className="px-7 gray-scale">
                   {/* <img
                     src="assets/images/clients/f-c-2.png"
                     className="opacity-30 hover:opacity-100 transition"
@@ -1657,13 +1657,13 @@ function Main() {
 
                   <Retreeb />
                 </a>
-                <a href="#/" className="px-7">
+                <a href="#/" className="px-7 gray-scale">
                   <Securrency />
                 </a>
-                <a href="#/" className="px-7">
+                <a href="#/" className="px-7 gray-scale">
                   <Fantom />
                 </a>
-                <a href="#/" className="px-7">
+                <a href="#/" className="px-7 gray-scale">
                   <Arcelormittal />
                 </a>
               </div>
