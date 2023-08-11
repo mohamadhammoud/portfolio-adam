@@ -70,30 +70,6 @@ function Main() {
                     />
                   </svg>
                 </a>
-                {/* <a href="https://www.youtube.com/watch?v=XNhiqQJ01hQ" className="flex video-popup items-center gap-5">
-                <span
-                  className="w-[60px] pulsing-dev h-[60px] rounded-full grid place-items-center border border-new-500"
-                >
-                  <svg
-                    width="18"
-                    height="22"
-                    viewBox="0 0 18 22"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M0 18.4719V3.52806C0 1.14774 2.63921 -0.284513 4.63497 1.01273L16.1303 8.48467C17.9503 9.6677 17.9503 12.3323 16.1303 13.5153L4.63496 20.9873C2.63921 22.2845 0 20.8523 0 18.4719Z"
-                      fill="#DAED1A"
-                    />
-                  </svg>
-                </span>
-                <span
-                  ><span className="text-white uppercase text-lg font-medium"
-                    >WATCH</span>
-                  <br />
-                  <span className="text-base font-medium text-interface-200"
-                    >Intro Video</span></span>
-              </a> */}
               </div>
               <div className="pt-14">
                 <p className="text-base text-interface-200">
@@ -113,7 +89,7 @@ function Main() {
               <div>
                 <img
                   src="assets/images/core/adam-blockchain-web3-developer-solidity.png"
-                  alt=""
+                  alt="adam-boudjemaa-solidity-developer"
                 />
               </div>
             </div>
@@ -1431,7 +1407,7 @@ function Main() {
                 <img
                   src="assets/images/core/adam-blockchain-web3-developer-solidity.png"
                   className="w-full"
-                  alt=""
+                  alt="adam-boudjemaa-blockchain-developer"
                 />
               </div>
               <div>
@@ -1740,12 +1716,6 @@ function Main() {
                   <Polytrade />
                 </a>
                 <a href="#/" className="px-7 gray-scale">
-                  {/* <img
-                    src="assets/images/clients/f-c-2.png"
-                    className="opacity-30 hover:opacity-100 transition"
-                    alt=""
-                  /> */}
-
                   <Retreeb />
                 </a>
                 <a href="#/" className="px-7 gray-scale">
@@ -1804,7 +1774,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
               style={{
                 background:
-                  "url('assets/images/core/ERC3643.svg') no-repeat center center/cover"
+                  "url('assets/images/core/security-tokens-t-rex-erc3643.png') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
@@ -1843,7 +1813,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden lg:col-span-2"
               style={{
                 background:
-                  "url('assets/images/core/ERC6960.svg') no-repeat center center/cover"
+                  "url('assets/images/core/erc-6960-house-shared-ownership.png') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
@@ -1881,7 +1851,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
               style={{
                 background:
-                  "url('assets/images/core/yul-erc20-assembly.svg') no-repeat center center/cover"
+                  "url('assets/images/core/erc-20-evm-inline-assembly-yul.png') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
@@ -1912,7 +1882,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
               style={{
                 background:
-                  "url('assets/images/core/staking-platform.svg') no-repeat center center/cover"
+                  "url('assets/images/core/staking-platform-erc20-solidity.png') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
@@ -1944,7 +1914,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
               style={{
                 background:
-                  "url('assets/images/core/yul-erc721-assembly.svg') no-repeat center center/cover"
+                  "url('assets/images/core/erc1155-evm-yul-assembly.png') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
