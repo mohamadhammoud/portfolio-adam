@@ -12,7 +12,8 @@ function Hardhat() {
           textRendering: 'geometricPrecision',
           // imageRendering:"optimizeQuality",
           fillRule: 'evenodd',
-          clipRule: 'evenodd'
+          clipRule: 'evenodd',
+          padding: 10
         }}
         xmlnsXlink="http://www.w3.org/1999/xlink"
       >
