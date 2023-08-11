@@ -1441,6 +1441,21 @@ function Main() {
                   <li className="flex justify-between items-center pl-4 py-5">
                     <div>
                       <h4 className="text-xl font-semibold text-white mb-4">
+                        Blockchain Developer
+                      </h4>
+
+                      <Tokeny />
+                    </div>
+                    <div className="shrink-0">
+                      <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md">
+                        2019-2021
+                      </span>
+                    </div>
+                  </li>
+
+                  <li className="flex justify-between items-center pl-4 py-5">
+                    <div>
+                      <h4 className="text-xl font-semibold text-white mb-4">
                         IT Security Engineer
                       </h4>
 
@@ -1662,6 +1677,9 @@ function Main() {
                 </a>
                 <a href="#/" className="px-7 gray-scale">
                   <Fantom />
+                </a>
+                <a href="#/" className="px-7 gray-scale">
+                  <Tokeny />
                 </a>
                 <a href="#/" className="px-7 gray-scale">
                   <Arcelormittal />
