@@ -57,7 +57,7 @@ function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i className="fa-brands fa-telegram"></i>
+                <i className="fa-brands fa-beat-fade fa-telegram"></i>
               </a>
               <a
                 href="https://ethereum.stackexchange.com/users/49141/adam-boudj"
