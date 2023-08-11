@@ -41,7 +41,7 @@ function Main() {
                       "url('assets/images/hero/hero-one/wide-line.svg') no-repeat bottom"
                   }}
                 >
-                  Blockchain Lead Developer
+                  Blockchain Lead
                 </span>
               </h1>
               <p className="text-2xl text-borderl-500 mb-4">
@@ -1823,6 +1823,13 @@ function Main() {
                     href="https://eips.ethereum.org/EIPS/eip-3643"
                     className="grid place-content-center transition mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
                   >
+                    View EIP
+                  </a>{' '}
+                  {/* <br /> */}
+                  <a
+                    href="https://github.com/Aboudjem/ERC-3643"
+                    className="grid place-content-center transition mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
+                  >
                     View Project
                   </a>
                 </div>
@@ -1853,6 +1860,12 @@ function Main() {
                   </span>
                   <a
                     href="https://eips.ethereum.org/EIPS/eip-6960"
+                    className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
+                  >
+                    View EIP
+                  </a>
+                  <a
+                    href="https://github.com/Aboudjem/ERC-6960"
                     className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
                   >
                     View Project

@@ -10,7 +10,7 @@ function Header() {
             <div className="flex space-x-0 md:space-x-14">
               {/* <!-- Email --> */}
               <div className="flex items-center space-x-2">
-                <i className="fa-solid fa-envelope text-new-500"></i>
+                <i className="fa-solid fa-envelope fa-beat-fade text-new-500"></i>
                 <a
                   href="mailto:boudjemaa.adam@gmail.com"
                   className="text-interface-200 text-base"
@@ -20,7 +20,7 @@ function Header() {
               </div>
               {/* <!-- Phone --> */}
               <div className="space-x-2 hidden md:flex items-center">
-                <i className="fa-solid fa-phone text-new-500"></i>
+                <i className="fa-solid fa-phone text-new-500 fa-beat-fade"></i>
                 <a
                   href="tel:+971585129533"
                   className="text-interface-200 text-base"
@@ -31,16 +31,6 @@ function Header() {
             </div>
           </div>
           <div className="flex items-center space-x-6">
-            {/*
-           facebook sticker
-           <a
-             href="http://"
-             className="group transition-all text-interface-200 hover:text-new-500"
-             target="_blank"
-             rel="noopener noreferrer"
-           >
-             <i className="fa-brands fa-facebook-f"></i>
-           </a> */}
             <a
               href="https://twitter.com/AdamBoudj"
               className="group transition-all text-interface-200 hover:text-new-500"
@@ -49,16 +39,7 @@ function Header() {
             >
               <i className="fa-brands fa-twitter"></i>
             </a>
-            {/*
-           youtube sticker
-           <a
-             href="http://"
-             className="group transition-all text-interface-200 hover:text-new-500"
-             target="_blank"
-             rel="noopener noreferrer"
-           >
-             <i className="fa-brands fa-youtube"></i>
-           </a> */}
+
             <a
               href="https://www.linkedin.com/in/adamboudjemaa"
               className="group transition-all text-interface-200 hover:text-new-500"

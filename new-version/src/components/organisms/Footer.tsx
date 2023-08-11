@@ -21,122 +21,63 @@ function Footer() {
               <AdamLogo />
             </a>
             <p className="text-white text-base">
-              We work with a passion of taking challenges and creating new ones
-              in blockchain development sector.
+              Crafting cutting-edge blockchain solutions with dedication and
+              expertise. Let's shape the future together
             </p>
             <div className="flex space-x-3 mt-7">
-              {/* <a
-                href="http://"
-                className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <i className="fa-brands fa-facebook-f"></i>
-              </a> */}
               <a
                 href="https://twitter.com/AdamBoudj"
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i className="fa-brands fa-twitter"></i>
+                <i className="fa-brands fa-beat-fade fa-twitter"></i>
               </a>
-              {/* <a
-                href="http://"
+
+              <a
+                href="https://www.linkedin.com/in/adamboudjemaa"
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i className="fa-brands fa-instagram"></i>
-              </a> */}
-              {/* <a
-                href="http://"
+                <i className="fa-brands fa-beat-fade fa-linkedin"></i>
+              </a>
+
+              <a
+                href="https://medium.com/@adamboudj"
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <i className="fa-brands fa-youtube"></i>
-              </a> */}
+                <i className="fa-brands fa-beat-fade fa-medium"></i>
+              </a>
+              <a
+                href="https://t.me/adamboudj"
+                className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fa-brands fa-telegram"></i>
+              </a>
+              <a
+                href="https://ethereum.stackexchange.com/users/49141/adam-boudj"
+                className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fa-brands fa-beat-fade fa-stack-exchange"></i>
+              </a>
+              <a
+                href="https://github.com/Aboudjem"
+                className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fa-brands fa-beat-fade fa-github"></i>
+              </a>
             </div>
           </div>
-          <div className="md:col-span-3 lg:col-span-2 pt-8 lg:pt-0 lg:pl-12">
-            <h4 className="mb-7 text-white text-2xl font-semibold">Links</h4>
-            <nav>
-              <ul className="space-y-4">
-                <li>
-                  <a
-                    href="#"
-                    className="font-medium transition hover:text-new-500 text-base text-white"
-                  >
-                    Home
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#"
-                    className="font-medium transition hover:text-new-500 text-base text-white"
-                  >
-                    Service
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#"
-                    className="font-medium transition hover:text-new-500 text-base text-white"
-                  >
-                    Blog
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#"
-                    className="font-medium transition hover:text-new-500 text-base text-white"
-                  >
-                    Contact Us
-                  </a>
-                </li>
-              </ul>
-            </nav>
-          </div>
-          <div className="md:col-span-3 lg:col-span-3 pt-8 lg:pt-0 lg:pl-12">
-            <h4 className="mb-7 text-white text-2xl font-semibold">Services</h4>
-            <nav>
-              <ul className="space-y-4">
-                <li>
-                  <a
-                    href="#"
-                    className="font-medium transition hover:text-new-500 text-base text-white"
-                  >
-                    Contact & Faq
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#"
-                    className="font-medium transition hover:text-new-500 text-base text-white"
-                  >
-                    Track Your Order
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#"
-                    className="font-medium transition hover:text-new-500 text-base text-white"
-                  >
-                    Shipping
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="#"
-                    className="font-medium transition hover:text-new-500 text-base text-white"
-                  >
-                    Trade Program
-                  </a>
-                </li>
-              </ul>
-            </nav>
-          </div>
+
           <div className="md:col-span-6 lg:col-span-4 pt-8 lg:pt-0 lg:pl-12">
             <h4 className="mb-7 text-white text-2xl font-semibold">
               Official Info:
@@ -157,7 +98,7 @@ function Footer() {
                     fill="#DAED1A"
                   />
                 </svg>
-                <p className="text-white">United Arab Emirates, Dubai</p>
+                <p className="text-white">Dubai, United Arab Emirates</p>
               </li>
               <li className="flex space-x-2">
                 <svg
