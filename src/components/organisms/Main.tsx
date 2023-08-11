@@ -111,7 +111,10 @@ function Main() {
             {/* <!-- Right --> */}
             <div className="lg:w-1/2">
               <div>
-                <img src="assets/images/core/adam-blockchain-solidity.png" alt="" />
+                <img
+                  src="assets/images/core/adam-blockchain-solidity.png"
+                  alt=""
+                />
               </div>
             </div>
           </div>
