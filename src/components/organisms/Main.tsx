@@ -111,7 +111,7 @@ function Main() {
             {/* <!-- Right --> */}
             <div className="lg:w-1/2">
               <div>
-                <img src="assets/images/core/1_Adam.png" alt="" />
+                <img src="assets/images/core/adam-blockchain-solidity.png" alt="" />
               </div>
             </div>
           </div>
@@ -1426,7 +1426,7 @@ function Main() {
               </div>
               <div className="mx-auto">
                 <img
-                  src="assets/images/core/2_Adam.png"
+                  src="assets/images/core/adam-blockchain-solidity.png"
                   className="w-full"
                   alt=""
                 />
