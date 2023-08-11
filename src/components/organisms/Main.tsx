@@ -112,7 +112,7 @@ function Main() {
             <div className="lg:w-1/2">
               <div>
                 <img
-                  src="assets/images/core/adam-blockchain-solidity.png"
+                  src="assets/images/core/adam-blockchain-web3-developer-solidity.png"
                   alt=""
                 />
               </div>
@@ -1429,7 +1429,7 @@ function Main() {
               </div>
               <div className="mx-auto">
                 <img
-                  src="assets/images/core/adam-blockchain-solidity.png"
+                  src="assets/images/core/adam-blockchain-web3-developer-solidity.png"
                   className="w-full"
                   alt=""
                 />
