@@ -8,7 +8,6 @@ import Reactjs from '../atoms/icons/Reactjs';
 import Socket from '../atoms/icons/Socket';
 import Typescript from '../atoms/icons/Typescript';
 import Javascript from '../atoms/icons/Javascript';
-import Biconomy from '../atoms/icons/Biconomy';
 import Polytrade from '../atoms/icons/Polytrade';
 import Retreeb from '../atoms/icons/Retreeb';
 import Securrency from '../atoms/icons/Securrency';
@@ -50,7 +49,7 @@ function Main() {
               </p>
               <div className="flex items-center gap-8 mt-10">
                 <a
-                  href="#/"
+                  href="mailto:boudjemaa.adam@gmail.com"
                   className="bg-new-500 text-interface-100 px-6 py-4 rounded-lg inline-flex justify-center items-center hover:bg-new-600 font-medium transition-all"
                 >
                   <span>Hire Me</span>
@@ -97,12 +96,14 @@ function Main() {
               </div>
               <div className="pt-14">
                 <p className="text-base text-interface-200">
-                  Over
                   <span className="text-new-500 font-semibold text-xl">
-                    {' '}
-                    50,000+ client{' '}
-                  </span>
-                  all over the world.
+                    7 years
+                  </span>{' '}
+                  of expertise, with{' '}
+                  <span className="text-new-500 font-semibold text-xl">
+                    500+
+                  </span>{' '}
+                  smart contracts successfully deployed.
                 </p>
               </div>
             </div>
@@ -253,9 +254,9 @@ function Main() {
           <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-5 gap-5 xl:gap-10 lg:gap-16 place-items-center mb-14">
             <div className="xl:col-span-2">
               <h2 className="text-white font-bold lg:text-5xl text-4xl capitalize leading-snug">
-                Expertise
+                Blockchain
                 <span className="relative">
-                  <span className="relative z-20"> Service!</span>
+                  <span className="relative z-20"> Expert!</span>
                   <svg
                     className="absolute  -left-1 z-0 -top-2 hidden md:block"
                     width="206"
@@ -271,15 +272,14 @@ function Main() {
                       strokeLinecap="round"
                     />
                   </svg>
-                  Let’s check it out.
+                  Let's Dive In.
                 </span>
               </h2>
             </div>
             <div className="xl:col-span-3">
               <p className="text-white text-xl">
-                Guiding you through the blockchain journey, one challenge at a
-                time. Together, we'll innovate and shape the future of
-                decentralized tech.
+                Navigating the world of smart contracts, EVM and Solidity with
+                precision. Let's revolutionize blockchain solutions together.
               </p>
             </div>
           </div>
@@ -1766,7 +1766,8 @@ function Main() {
                   </h3>
                   <span className="flex items-center gap-2 text-white">
                     <span className="w-2 h-2 rounded-full inline-block bg-new-500"></span>
-                    Ethereum Request for Comment
+                    T-REX The leading standard for on-chain Real-World Asset
+                    tokenization
                   </span>
                   <a
                     href="https://eips.ethereum.org/EIPS/eip-3643"
@@ -1797,7 +1798,8 @@ function Main() {
                   </h3>
                   <span className="flex items-center gap-2 text-white">
                     <span className="w-2 h-2 rounded-full inline-block bg-new-500"></span>
-                    Ethereum Request for Comment
+                    DLT Pioneering on-chain fractionalization of real-world
+                    assets.
                   </span>
                   <a
                     href="https://eips.ethereum.org/EIPS/eip-6960"
@@ -1823,12 +1825,12 @@ function Main() {
                       href="https://github.com/Aboudjem/Yul-ERC20-assembly"
                       className="text-3xl font-semibold text-white"
                     >
-                      Yul ERC20 assembly
+                      Inline Assembly ERC20
                     </a>
                   </h3>
                   <span className="flex items-center gap-2 text-white">
                     <span className="w-2 h-2 rounded-full inline-block bg-new-500"></span>
-                    Yul Developer Experience Project
+                    A hands-on ERC20 experiment using inline Assembly.
                   </span>
                   <a
                     href="https://github.com/Aboudjem/Yul-ERC20-assembly"
@@ -1854,12 +1856,13 @@ function Main() {
                       href="https://github.com/Aboudjem/staking-platform-fixed-apy"
                       className="text-3xl font-semibold text-white"
                     >
-                      Staking platform
+                      Staking Platform
                     </a>
                   </h3>
                   <span className="flex items-center gap-2 text-white">
                     <span className="w-2 h-2 rounded-full inline-block bg-new-500"></span>
-                    Full Stack Web3 Project
+                    Secure, fixed APY with set duration, lockup, and max stake
+                    capabilities.
                   </span>
                   <a
                     href="https://github.com/Aboudjem/staking-platform-fixed-apy"
@@ -1885,12 +1888,12 @@ function Main() {
                       href="https://github.com/Aboudjem/Yul-ERC1155-assembly"
                       className="text-3xl font-semibold text-white"
                     >
-                      Yul ERC1155 Assembly
+                      Pure Yul ERC1155
                     </a>
                   </h3>
                   <span className="flex items-center gap-2 text-white">
                     <span className="w-2 h-2 rounded-full inline-block bg-new-500"></span>
-                    Yul Developer Experience Project
+                    Crafted an ERC1155 token entirely with Yul Assembly.
                   </span>
                   <a
                     href="https://github.com/Aboudjem/Yul-ERC1155-assembly"

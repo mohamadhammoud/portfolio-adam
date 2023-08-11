@@ -88,7 +88,7 @@ function Header() {
 
             <div className="hidden xl:block">
               <a
-                href="contact-us.html"
+                href="mailto:boudjemaa.adam@gmail.com"
                 className="bg-new-500 text-interface-100 px-6 py-4 font-medium rounded-lg inline-flex justify-center items-center group transition-all hover:bg-new-600"
               >
                 <span>Let's Talk</span>

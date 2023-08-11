@@ -17,6 +17,14 @@ function Hardhat() {
         }}
         xmlnsXlink="http://www.w3.org/1999/xlink"
       >
+        <circle
+          cx="280"
+          cy="280"
+          r="280"
+          fill="white"
+          fillOpacity="0.1"
+          shapeRendering="crispEdges"
+        />
         <g>
           <path
             style={{ opacity: 0.999 }}
