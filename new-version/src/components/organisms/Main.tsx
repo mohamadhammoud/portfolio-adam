@@ -1751,7 +1751,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
               style={{
                 background:
-                  "url('assets/images/core/collaborative-whiteboard.svg') no-repeat center center/cover"
+                  "url('assets/images/core/ERC3643.svg') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
@@ -1782,7 +1782,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden lg:col-span-2"
               style={{
                 background:
-                  "url('assets/images/core/collaborative-whiteboard.svg') no-repeat center center/cover"
+                  "url('assets/images/core/ERC6960.svg') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
@@ -1813,7 +1813,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
               style={{
                 background:
-                  "url('assets/images/core/coin-flip.svg') no-repeat center center/cover"
+                  "url('assets/images/core/yul-erc20-assembly.svg') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
@@ -1844,7 +1844,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
               style={{
                 background:
-                  "url('assets/images/core/diamond-hand.svg') no-repeat center center/cover"
+                  "url('assets/images/core/staking-platform.svg') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
@@ -1875,7 +1875,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
               style={{
                 background:
-                  "url('assets/images/core/crypto-tracker.svg') no-repeat center center/cover"
+                  "url('assets/images/core/yul-erc721-assembly.svg') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
