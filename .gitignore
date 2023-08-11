@@ -35,3 +35,5 @@
 next-telemetry-client-id
 
 *.gitignore
+
+.DS_Store
