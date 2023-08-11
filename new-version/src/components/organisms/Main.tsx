@@ -14,6 +14,7 @@ import Securrency from '../atoms/icons/Securrency';
 import Fantom from '../atoms/icons/Fantom';
 import Tokeny from '../atoms/icons/Tokeny';
 import Arcelormittal from '../atoms/icons/Arcelormittal';
+import Biconomy from '../atoms/icons/Biconomy';
 
 function Main() {
   return (
@@ -1342,51 +1343,84 @@ function Main() {
                 </div>
                 <ul className="list-disc list-inside">
                   <li className="text-white text-lg mt-5 leading-normal">
-                    Specialization in Solidity, Web3, and smart contract
+                    Specialization in{' '}
+                    <span className="text-new-500 font-semibold text-xl">
+                      Solidity
+                    </span>
+                    ,{' '}
+                    <span className="text-new-500 font-semibold text-xl">
+                      Web3
+                    </span>
+                    , and{' '}
+                    <span className="text-new-500 font-semibold text-xl">
+                      smart contract{' '}
+                    </span>
                     creation.
                   </li>
                   <li className="text-white text-lg mt-5 leading-normal">
                     {' '}
-                    Expertise in DApp & Smart Contract Architecture for robust
-                    and scalable decentralized applications.
+                    Expertise in{' '}
+                    <span className="text-new-500 font-semibold text-xl">
+                      DApp
+                    </span>{' '}
+                    &{' '}
+                    <span className="text-new-500 font-semibold text-xl">
+                      Smart Contract Architecture
+                    </span>{' '}
+                    for robust and scalable decentralized applications.
                   </li>
-                  <li className="text-white text-lg mt-5 leading-normal">
+                  {/* <li className="text-white text-lg mt-5 leading-normal">
                     Deployed over 500 smart contracts on leading EVM
                     blockchains: Ethereum, Fantom, Polygon, Avalanche, and
                     Binance Chain.
+                  </li> */}
+                  <li className="text-white text-lg mt-5 leading-normal">
+                    Co-authored{' '}
+                    <span className="text-new-500 font-semibold text-xl highlight">
+                      <a href="https://eips.ethereum.org/EIPS/eip-3643">
+                        ERC-3643
+                      </a>
+                    </span>
+                    , the most used standard for security tokens and tokenizing
+                    real-world assets.
                   </li>
                   <li className="text-white text-lg mt-5 leading-normal">
-                    Co-authored ERC-3643, the most used standard for security
-                    tokens and tokenizing real-world assets.
+                    Authored{' '}
+                    <span className="text-new-500 font-semibold text-xl highlight">
+                      <a href="https://eips.ethereum.org/EIPS/eip-6960">
+                        ERC-6960
+                      </a>
+                    </span>{' '}
+                    (Dual Layer Token - DLT) for fractionalizing real-world
+                    assets (RWA).
                   </li>
                   <li className="text-white text-lg mt-5 leading-normal">
-                    Introduced ERC-6960 (Dual Layer Token - DLT) for
-                    fractionalizing real-world assets (RWA).
+                    Recognitions from{' '}
+                    <span className="text-new-500 font-semibold text-xl highlight">
+                      <a href="https://research.binance.com/static/pdf/real-world-asset-report.pdf">
+                        Binance research
+                      </a>
+                    </span>{' '}
+                    for contributions to blockchain standards.
                   </li>
                   <li className="text-white text-lg mt-5 leading-normal">
-                    Recognitions from Binance research for contributions to
-                    blockchain standards.
-                  </li>
-                  <li className="text-white text-lg mt-5 leading-normal">
-                    Winner of "Hackernoon Contributor of the Year" in
-                    Decentralization and Internet categories.
-                  </li>
-                  <li className="text-white text-lg mt-5 leading-normal">
-                    Deep expertise in Solidity, EVM, Huff, and Assembly, driving
-                    innovation in decentralized finance.
-                  </li>
-                  <li className="text-white text-lg mt-5 leading-normal">
-                    Assisted businesses in leveraging the best of blockchain and
-                    crypto technologies.
-                  </li>
-                  <li className="text-white text-lg mt-5 leading-normal">
-                    Emphasis on creating secure smart contracts with a track
-                    record in security audits.
-                  </li>
-                  <li className="text-white text-lg mt-5 leading-normal">
-                    Led a team that developed a DeFi platform, which secured
-                    over $100M in total value locked (TVL) within its first
-                    year.
+                    Deep expertise in{' '}
+                    <span className="text-new-500 font-semibold text-xl">
+                      Solidity
+                    </span>
+                    ,{' '}
+                    <span className="text-new-500 font-semibold text-xl">
+                      EVM
+                    </span>
+                    ,{' '}
+                    <span className="text-new-500 font-semibold text-xl">
+                      HUFF
+                    </span>
+                    , and{' '}
+                    <span className="text-new-500 font-semibold text-xl">
+                      Assembly
+                    </span>
+                    , driving innovation in decentralized finance.
                   </li>
                 </ul>
               </div>
@@ -1402,11 +1436,11 @@ function Main() {
                   <li className="flex justify-between items-center pl-4 py-5">
                     <div>
                       <h4 className="text-xl font-semibold text-white mb-4">
-                        Blockchain Lead
+                        Blockchain Tech Lead
                       </h4>
 
                       {/* Microsoft SVG ===> Polytrade SVG */}
-                      <Polytrade />
+                      <Biconomy />
                     </div>
                     <div>
                       <span className="bg-new-500 px-3 py-2 rounded-md">
@@ -1414,6 +1448,7 @@ function Main() {
                       </span>
                     </div>
                   </li>
+
                   <li className="flex justify-between items-center pl-4 py-5">
                     <div>
                       <h4 className="text-xl font-semibold text-white mb-4">
@@ -1426,6 +1461,21 @@ function Main() {
                     <div>
                       <span className="bg-new-500 px-3 py-2 rounded-md">
                         Current
+                      </span>
+                    </div>
+                  </li>
+                  <li className="flex justify-between items-center pl-4 py-5">
+                    <div>
+                      <h4 className="text-xl font-semibold text-white mb-4">
+                        Blockchain Lead Dev
+                      </h4>
+
+                      {/* Microsoft SVG ===> Polytrade SVG */}
+                      <Polytrade />
+                    </div>
+                    <div className="shrink-0">
+                      <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md">
+                        2021-2023
                       </span>
                     </div>
                   </li>

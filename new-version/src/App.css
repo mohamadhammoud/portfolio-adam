@@ -5,3 +5,8 @@
 .gray-scale:hover {
   filter: grayscale(0%);
 }
+
+.highlight {
+  background: #daed1a;
+  color: black;
+}

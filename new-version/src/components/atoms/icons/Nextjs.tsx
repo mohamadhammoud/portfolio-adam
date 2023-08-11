@@ -14,7 +14,7 @@ export default function Nextjs() {
           cy="81"
           r="73"
           fill="white"
-          fillOpacity="0.1"
+          fillOpacity="0"
           shapeRendering="crispEdges"
         />
       </g>
