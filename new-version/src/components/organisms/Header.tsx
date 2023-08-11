@@ -80,10 +80,10 @@ function Header() {
 
                 <AdamLogo />
               </a>
-              <div className="nav__toggle" id="nav-toggle">
+              {/* <div className="nav__toggle" id="nav-toggle">
                 <i className="fa-solid fa-bars nav__toggle-menu"></i>
                 <i className="fa-solid fa-xmark nav__toggle-close"></i>
-              </div>
+              </div> */}
             </div>
 
             <div className="hidden xl:block">
