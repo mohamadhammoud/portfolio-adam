@@ -41,7 +41,7 @@ function Main() {
                       "url('assets/images/hero/hero-one/wide-line.svg') no-repeat bottom"
                   }}
                 >
-                  Blockchain Lead
+                  Blockchain Lead Developer
                 </span>
               </h1>
               <p className="text-2xl text-borderl-500 mb-4">
@@ -1342,28 +1342,51 @@ function Main() {
                 </div>
                 <ul className="list-disc list-inside">
                   <li className="text-white text-lg mt-5 leading-normal">
-                    I specialize in Solidity, Web3, and smart contract creation.
-                    Over the years, I've deployed over 500 smart contracts on
-                    renowned EVM blockchains, including Ethereum, Fantom,
-                    Polygon, Avalanche, and Binance Chain.
+                    Specialization in Solidity, Web3, and smart contract
+                    creation.
                   </li>
                   <li className="text-white text-lg mt-5 leading-normal">
                     {' '}
-                    My significant contributions to the blockchain community
-                    include co-authoring the groundbreaking DeFi standard
-                    ERC-3643 for tokenizing real-world assets and ERC-6960 (Dual
-                    Layer Token - DLT), a pivotal standard for fractionalizing
-                    assets. Both of these standards have gained recognition from
-                    Binance research.
+                    Expertise in DApp & Smart Contract Architecture for robust
+                    and scalable decentralized applications.
                   </li>
                   <li className="text-white text-lg mt-5 leading-normal">
-                    In addition to my technical contributions, I'm honored to
-                    have won the "Hackernoon Contributor of the Year" awards in
-                    the "Decentralization" and "Internet" categories. With a
-                    deep expertise in Solidity, EVM, Huff, and Assembly, I'm
-                    driven by a passion to innovate in the realm of
-                    decentralized finance. Together, let's explore and harness
-                    the immense potential of blockchain.
+                    Deployed over 500 smart contracts on leading EVM
+                    blockchains: Ethereum, Fantom, Polygon, Avalanche, and
+                    Binance Chain.
+                  </li>
+                  <li className="text-white text-lg mt-5 leading-normal">
+                    Co-authored ERC-3643, the most used standard for security
+                    tokens and tokenizing real-world assets.
+                  </li>
+                  <li className="text-white text-lg mt-5 leading-normal">
+                    Introduced ERC-6960 (Dual Layer Token - DLT) for
+                    fractionalizing real-world assets (RWA).
+                  </li>
+                  <li className="text-white text-lg mt-5 leading-normal">
+                    Recognitions from Binance research for contributions to
+                    blockchain standards.
+                  </li>
+                  <li className="text-white text-lg mt-5 leading-normal">
+                    Winner of "Hackernoon Contributor of the Year" in
+                    Decentralization and Internet categories.
+                  </li>
+                  <li className="text-white text-lg mt-5 leading-normal">
+                    Deep expertise in Solidity, EVM, Huff, and Assembly, driving
+                    innovation in decentralized finance.
+                  </li>
+                  <li className="text-white text-lg mt-5 leading-normal">
+                    Assisted businesses in leveraging the best of blockchain and
+                    crypto technologies.
+                  </li>
+                  <li className="text-white text-lg mt-5 leading-normal">
+                    Emphasis on creating secure smart contracts with a track
+                    record in security audits.
+                  </li>
+                  <li className="text-white text-lg mt-5 leading-normal">
+                    Led a team that developed a DeFi platform, which secured
+                    over $100M in total value locked (TVL) within its first
+                    year.
                   </li>
                 </ul>
               </div>
@@ -1696,9 +1719,9 @@ function Main() {
         <div className="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
           <div className="max-w-xl mx-auto mb-10 text-center">
             <h2 className="text-4xl leading-normal xl:text-5xl xl:leading-snug font-bold text-white mb-4">
-              Let’s Check my
+              Project
               <span className="relative z-30">
-                <span className="relative z-10"> Projects</span>
+                <span className="relative z-10"> Highlights</span>
                 <svg
                   className="absolute right-0 bottom-1"
                   width="200"
@@ -1717,7 +1740,7 @@ function Main() {
               </span>
             </h2>
             <p className="text-white text-xl mb-5">
-              Below are some of the projects I have worked on ..
+              Delve into the key projects that showcase my skills and expertise.
             </p>
           </div>
 
