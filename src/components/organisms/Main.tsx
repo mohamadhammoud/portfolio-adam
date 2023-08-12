@@ -1214,8 +1214,6 @@ function Main() {
                       <h4 className="text-xl font-semibold text-white mb-4">
                         Blockchain Tech Lead
                       </h4>
-
-                      {/* Microsoft SVG ===> Polytrade SVG */}
                       <Biconomy />
                     </div>
                     <div>
@@ -1230,8 +1228,6 @@ function Main() {
                       <h4 className="text-xl font-semibold text-white mb-4">
                         Head of Blockchain
                       </h4>
-
-                      {/* Uber SVG ===> Retreeb SVG */}
                       <Retreeb />
                     </div>
                     <div>
@@ -1245,8 +1241,6 @@ function Main() {
                       <h4 className="text-xl font-semibold text-white mb-4">
                         Blockchain Lead Dev
                       </h4>
-
-                      {/* Microsoft SVG ===> Polytrade SVG */}
                       <Polytrade />
                     </div>
                     <div className="shrink-0">
@@ -1260,8 +1254,6 @@ function Main() {
                       <h4 className="text-xl font-semibold text-white mb-4">
                         Blockchain Engineer
                       </h4>
-
-                      {/* Linkedin SVG ===> Securrency SVG */}
                       <Securrency />
                     </div>
                     <div className="shrink-0">
@@ -1276,8 +1268,6 @@ function Main() {
                       <h4 className="text-xl font-semibold text-white mb-4">
                         Blockchain Engineer
                       </h4>
-
-                      {/* Linkedin SVG ===> Fantom Foundation SVG */}
                       <Fantom />
                     </div>
                     <div className="shrink-0">
@@ -1307,8 +1297,6 @@ function Main() {
                       <h4 className="text-xl font-semibold text-white mb-4">
                         IT Security Engineer
                       </h4>
-
-                      {/* Linkedin SVG ===> ArcelorMittal  */}
                       <Arcelormittal />
                     </div>
                     <div className="shrink-0">
