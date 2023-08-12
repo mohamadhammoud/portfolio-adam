@@ -21,7 +21,6 @@ function Main() {
     <main>
       {/* <!-- Blockchain-Description Start --> */}
       <section
-        className="pt-44"
         style={{
           background:
             "url('assets/images/blockchain-background/web-three-bg.jpg') no-repeat center center/cover"
@@ -49,26 +48,31 @@ function Main() {
                 blockchain expertise.
               </p>
               <div className="flex items-center gap-8 mt-10">
+                {/* WhatsApp Button */}
+                <a
+                  href="https://wa.me/+971585129533"
+                  className="btn bg-whatsapp text-interface-100 py-4 rounded-lg inline-flex justify-center items-center font-medium transition-all"
+                >
+                  <span>WhatsApp</span>
+                  <i className="fab fa-whatsapp ml-2"></i>
+                </a>
+
+                {/* Telegram Button */}
+                <a
+                  href="https://t.me/adamboudj"
+                  className="btn bg-telegram text-interface-100 py-4 rounded-lg inline-flex justify-center items-center font-medium transition-all ml-2"
+                >
+                  <span>Telegram</span>
+                  <i className="fab fa-telegram-plane ml-2"></i>
+                </a>
+
+                {/* Email Button */}
                 <a
                   href="mailto:boudjemaa.adam@gmail.com"
-                  className="bg-new-500 text-interface-100 px-6 py-4 rounded-lg inline-flex justify-center items-center hover:bg-new-600 font-medium transition-all"
+                  className="btn bg-email text-interface-100 py-4 rounded-lg inline-flex justify-center items-center font-medium transition-all ml-2"
                 >
-                  <span>Hire Me</span>
-                  <svg
-                    width="24"
-                    height="25"
-                    viewBox="0 0 24 25"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M14 16.5L18 12.5M18 12.5L14 8.5M18 12.5L6 12.5"
-                      stroke="#04091E"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                  </svg>
+                  <span>Email</span>
+                  <i className="fas fa-envelope ml-2"></i>
                 </a>
               </div>
               <div className="pt-14">
@@ -625,7 +629,12 @@ function Main() {
                 Innovator
               </span>
               <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-seagreen-500 bg-opacity-10 absolute -right-5 -top-5">
-                <img src="assets/images/icons/pd.svg" alt="" />
+                <img
+                  src="assets/images/icons/pd.svg"
+                  alt="Adam Boudjemaa's blockchain developer profile icon"
+                  width="75"
+                  height="75"
+                />
               </div>
               <p className="text-lg text-interface-200 mb-3 mt-4">
                 Leading the way in Decentralized Finance. Building solutions
@@ -758,7 +767,12 @@ function Main() {
                 Maestro
               </span>
               <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-porange-700 bg-opacity-10 absolute -right-5 -top-5">
-                <img src="assets/images/icons/cont.svg" alt="" />
+                <img
+                  src="assets/images/icons/cont.svg"
+                  alt="Contact Adam for smart contract and web3 development"
+                  width="75"
+                  height="75"
+                />
               </div>
               <p className="text-lg text-interface-200 mb-3 mt-4">
                 Pushing the boundaries with Assembly, Yul, and Huff. Ensuring
@@ -772,7 +786,12 @@ function Main() {
                 Pioneer
               </span>
               <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-sky-500 absolute -right-5 -top-5">
-                <img src="assets/images/icons/search.svg" alt="" />
+                <img
+                  src="assets/images/icons/search.svg"
+                  alt="Search for blockchain and solidity resources"
+                  width="75"
+                  height="75"
+                />
               </div>
               <p className="text-lg text-interface-200 mb-3 mt-4">
                 Behind the creation of ERC-3643 and ERC-6960 main standards for

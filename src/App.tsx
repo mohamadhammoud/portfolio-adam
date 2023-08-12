@@ -6,7 +6,7 @@ import Footer from './components/organisms/Footer';
 function App() {
   return (
     <div className="App">
-      <Header />
+      {/* <Header /> */}
       <Main />
       <Footer />
     </div>
