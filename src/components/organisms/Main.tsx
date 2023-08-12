@@ -19,12 +19,12 @@ import Biconomy from '../atoms/icons/Biconomy';
 function Main() {
   return (
     <main>
-      {/* <!-- Hero Start --> */}
+      {/* <!-- Blockchain-Description Start --> */}
       <section
         className="pt-44"
         style={{
           background:
-            "url('assets/images/hero/hero-three/hero-three-bg.jpg') no-repeat center center/cover"
+            "url('assets/images/blockchain-background/web-three-bg.jpg') no-repeat center center/cover"
         }}
       >
         <div className="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
@@ -38,7 +38,7 @@ function Main() {
                   className="inline-block"
                   style={{
                     background:
-                      "url('assets/images/hero/hero-one/wide-line.svg') no-repeat bottom"
+                      "url('assets/images/blockchain-background/wide-line.svg') no-repeat bottom"
                   }}
                 >
                   Blockchain Lead
@@ -96,7 +96,7 @@ function Main() {
           </div>
         </div>
       </section>
-      {/* <!-- Hero End --> */}
+      {/* <!-- Blockchain-Description End --> */}
 
       {/* <!-- Social Link --> */}
       <section className="py-8">
@@ -363,33 +363,6 @@ function Main() {
                     specialize in tokenizing real-world assets, ensuring
                     seamless integration and value preservation.
                   </p>
-                  <a
-                    href="service-pd.html"
-                    className="underline flex relative group-hover:text-new-500 z-10 items-center text-white"
-                  >
-                    <span>Learn more</span>
-                    <svg
-                      className="stroke-white group-hover:stroke-new-500"
-                      width="25"
-                      height="26"
-                      viewBox="0 0 25 26"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M7.10156 18.0748L17.2491 7.92383"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                      <path
-                        d="M7.10156 7.92383H17.2491V18.0748"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                    </svg>
-                  </a>
                   <img
                     src="assets/images/bg/services-circle.png"
                     className="absolute top-5 -right-12 opacity-0 group-hover:opacity-100 transition-opacity"
@@ -516,33 +489,6 @@ function Main() {
                     experience, I provide strategic advisory services that drive
                     blockchain project success.
                   </p>
-                  <a
-                    href="service-pd.html"
-                    className="underline flex relative group-hover:text-new-500 z-10 items-center text-white"
-                  >
-                    <span>Learn more</span>
-                    <svg
-                      className="stroke-white group-hover:stroke-new-500"
-                      width="25"
-                      height="26"
-                      viewBox="0 0 25 26"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M7.10156 18.0748L17.2491 7.92383"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                      <path
-                        d="M7.10156 7.92383H17.2491V18.0748"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                    </svg>
-                  </a>
                   <img
                     src="assets/images/bg/services-circle.png"
                     className="absolute top-5 -right-12 opacity-0 group-hover:opacity-100 transition-opacity"
@@ -648,33 +594,7 @@ function Main() {
                     expertise in Solidity, I deliver robust smart contracts
                     optimized for performance and security.
                   </p>
-                  <a
-                    href="service-pd.html"
-                    className="underline flex relative group-hover:text-new-500 z-10 items-center text-white"
-                  >
-                    <span>Learn more</span>
-                    <svg
-                      className="stroke-white group-hover:stroke-new-500"
-                      width="25"
-                      height="26"
-                      viewBox="0 0 25 26"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M7.10156 18.0748L17.2491 7.92383"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                      <path
-                        d="M7.10156 7.92383H17.2491V18.0748"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                    </svg>
-                  </a>
+
                   <img
                     src="assets/images/bg/services-circle.png"
                     className="absolute top-5 -right-12 opacity-0 group-hover:opacity-100 transition-opacity"
@@ -720,33 +640,7 @@ function Main() {
                     ensure your projects leverage the best of blockchain's
                     low-level languages for maximum efficiency.
                   </p>
-                  <a
-                    href="service-pd.html"
-                    className="underline flex relative group-hover:text-new-500 z-10 items-center text-white"
-                  >
-                    <span>Learn more</span>
-                    <svg
-                      className="stroke-white group-hover:stroke-new-500"
-                      width="25"
-                      height="26"
-                      viewBox="0 0 25 26"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M7.10156 18.0748L17.2491 7.92383"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                      <path
-                        d="M7.10156 7.92383H17.2491V18.0748"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                    </svg>
-                  </a>
+
                   <img
                     src="assets/images/bg/services-circle.png"
                     className="absolute top-5 -right-12 opacity-0 group-hover:opacity-100 transition-opacity"
@@ -873,33 +767,7 @@ function Main() {
                     projects that revolutionize how we interact with digital
                     assets and financial systems.
                   </p>
-                  <a
-                    href="service-pd.html"
-                    className="underline flex relative group-hover:text-new-500 z-10 items-center text-white"
-                  >
-                    <span>Learn more</span>
-                    <svg
-                      className="stroke-white group-hover:stroke-new-500"
-                      width="25"
-                      height="26"
-                      viewBox="0 0 25 26"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M7.10156 18.0748L17.2491 7.92383"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                      <path
-                        d="M7.10156 7.92383H17.2491V18.0748"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                    </svg>
-                  </a>
+
                   <img
                     src="assets/images/bg/services-circle.png"
                     className="absolute top-5 -right-12 opacity-0 group-hover:opacity-100 transition-opacity"
@@ -1026,33 +894,7 @@ function Main() {
                     Web3 and backend solutions, ensuring your platform is robust
                     and ready for the future.
                   </p>
-                  <a
-                    href="service-pd.html"
-                    className="underline flex relative group-hover:text-new-500 z-10 items-center text-white"
-                  >
-                    <span>Learn more</span>
-                    <svg
-                      className="stroke-white group-hover:stroke-new-500"
-                      width="25"
-                      height="26"
-                      viewBox="0 0 25 26"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M7.10156 18.0748L17.2491 7.92383"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                      <path
-                        d="M7.10156 7.92383H17.2491V18.0748"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                    </svg>
-                  </a>
+
                   <img
                     src="assets/images/bg/services-circle.png"
                     className="absolute top-5 -right-12 opacity-0 group-hover:opacity-100 transition-opacity"
@@ -1179,33 +1021,7 @@ function Main() {
                     implement this advanced technique to make blockchain
                     interactions more intuitive and user-friendly.
                   </p>
-                  <a
-                    href="service-pd.html"
-                    className="underline flex relative group-hover:text-new-500 z-10 items-center text-white"
-                  >
-                    <span>Learn more</span>
-                    <svg
-                      className="stroke-white group-hover:stroke-new-500"
-                      width="25"
-                      height="26"
-                      viewBox="0 0 25 26"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M7.10156 18.0748L17.2491 7.92383"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                      <path
-                        d="M7.10156 7.92383H17.2491V18.0748"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                    </svg>
-                  </a>
+
                   <img
                     src="assets/images/bg/services-circle.png"
                     className="absolute top-5 -right-12 opacity-0 group-hover:opacity-100 transition-opacity"
@@ -1251,33 +1067,7 @@ function Main() {
                     review and fortify smart contracts, ensuring they're free
                     from vulnerabilities.
                   </p>
-                  <a
-                    href="service-pd.html"
-                    className="underline flex relative group-hover:text-new-500 z-10 items-center text-white"
-                  >
-                    <span>Learn more</span>
-                    <svg
-                      className="stroke-white group-hover:stroke-new-500"
-                      width="25"
-                      height="26"
-                      viewBox="0 0 25 26"
-                      fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M7.10156 18.0748L17.2491 7.92383"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                      <path
-                        d="M7.10156 7.92383H17.2491V18.0748"
-                        strokeWidth="1.5"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                    </svg>
-                  </a>
+
                   <img
                     src="assets/images/bg/services-circle.png"
                     className="absolute top-5 -right-12 opacity-0 group-hover:opacity-100 transition-opacity"
@@ -1348,15 +1138,14 @@ function Main() {
                     </span>{' '}
                     for robust and scalable decentralized applications.
                   </li>
-                  {/* <li className="text-white text-lg mt-5 leading-normal">
-                    Deployed over 500 smart contracts on leading EVM
-                    blockchains: Ethereum, Fantom, Polygon, Avalanche, and
-                    Binance Chain.
-                  </li> */}
                   <li className="text-white text-lg mt-5 leading-normal">
                     Co-authored{' '}
                     <span className="text-new-500 font-semibold text-xl highlight">
-                      <a href="https://eips.ethereum.org/EIPS/eip-3643">
+                      <a
+                        href="https://eips.ethereum.org/EIPS/eip-3643"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         ERC-3643
                       </a>
                     </span>
@@ -1366,7 +1155,11 @@ function Main() {
                   <li className="text-white text-lg mt-5 leading-normal">
                     Authored{' '}
                     <span className="text-new-500 font-semibold text-xl highlight">
-                      <a href="https://eips.ethereum.org/EIPS/eip-6960">
+                      <a
+                        href="https://eips.ethereum.org/EIPS/eip-6960"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         ERC-6960
                       </a>
                     </span>{' '}
@@ -1376,7 +1169,11 @@ function Main() {
                   <li className="text-white text-lg mt-5 leading-normal">
                     Recognitions from{' '}
                     <span className="text-new-500 font-semibold text-xl highlight">
-                      <a href="https://research.binance.com/static/pdf/real-world-asset-report.pdf">
+                      <a
+                        href="https://research.binance.com/static/pdf/real-world-asset-report.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
                         Binance research
                       </a>
                     </span>{' '}
@@ -1691,7 +1488,6 @@ function Main() {
                   <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md ">
                     <Reactjs />
                   </li>
-
                   <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md ">
                     <Socket />
                   </li>
@@ -1783,6 +1579,8 @@ function Main() {
                     <a
                       href="https://eips.ethereum.org/EIPS/eip-3643"
                       className="text-3xl font-semibold text-white"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       ERC-3643
                     </a>
@@ -1795,13 +1593,16 @@ function Main() {
                   <a
                     href="https://eips.ethereum.org/EIPS/eip-3643"
                     className="grid place-content-center transition mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     View EIP
                   </a>{' '}
-                  {/* <br /> */}
                   <a
                     href="https://github.com/Aboudjem/ERC-3643"
                     className="grid place-content-center transition mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     View Project
                   </a>
@@ -1822,6 +1623,8 @@ function Main() {
                     <a
                       href="https://eips.ethereum.org/EIPS/eip-6960"
                       className="text-3xl font-semibold text-white"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       ERC-6960
                     </a>
@@ -1834,12 +1637,16 @@ function Main() {
                   <a
                     href="https://eips.ethereum.org/EIPS/eip-6960"
                     className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     View EIP
                   </a>
                   <a
                     href="https://github.com/Aboudjem/ERC-6960"
                     className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     View Project
                   </a>
@@ -1871,6 +1678,8 @@ function Main() {
                   <a
                     href="https://github.com/Aboudjem/Yul-ERC20-assembly"
                     className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     View Project
                   </a>
@@ -1903,6 +1712,8 @@ function Main() {
                   <a
                     href="https://github.com/Aboudjem/staking-platform-fixed-apy"
                     className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     View Project
                   </a>
@@ -1934,6 +1745,8 @@ function Main() {
                   <a
                     href="https://github.com/Aboudjem/Yul-ERC1155-assembly"
                     className="grid place-content-center mt-6 px-3 py-2 border border-new-500 text-new-500 text-sm rounded"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     View Project
                   </a>
@@ -1941,27 +1754,12 @@ function Main() {
               </div>
             </div>
           </div>
-          {/* <!-- Button --> */}
-          <div className="flex justify-center mt-14">
-            <a
-              href="#/"
-              className="text-white text-lg font-medium rounded-lg border border-white py-3 px-8 text-center"
-            >
-              See More
-            </a>
-          </div>
         </div>
       </section>
       {/* <!-- Grid Masonry End --> */}
 
       {/* <!-- CTA  --> */}
-      <section
-        className="py-20"
-        style={{
-          background:
-            "url('assets/images/bg/dev-cta.jpg') no-repeat center center/cover"
-        }}
-      >
+      <section className="py-20">
         <div className="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
           <div className="flex flex-col gap-5 xl:gap-10 lg:flex-row justify-between">
             <div className="xl:w-6/12">
