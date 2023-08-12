@@ -15,7 +15,6 @@ import Fantom from '../atoms/icons/Fantom';
 import Tokeny from '../atoms/icons/Tokeny';
 import Arcelormittal from '../atoms/icons/Arcelormittal';
 import Biconomy from '../atoms/icons/Biconomy';
-// import adamImage from 'assets/images/core/adam-blockchain-web3-developer-solidity.webp';
 
 function Main() {
   return (
@@ -91,6 +90,8 @@ function Main() {
                 <img
                   src="assets/images/core/adam-blockchain-web3-developer-solidity.webp"
                   alt="adam-boudjemaa-solidity-developer"
+                  width="888"
+                  height="1000"
                 />
               </div>
             </div>
@@ -1206,6 +1207,8 @@ function Main() {
                   src="assets/images/core/adam-blockchain-web3-developer-solidity.webp"
                   className="w-full"
                   alt="adam-boudjemaa-blockchain-developer"
+                  width="888"
+                  height="1000"
                 />
               </div>
               <div>
