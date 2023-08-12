@@ -88,7 +88,7 @@ function Main() {
             <div className="lg:w-1/2">
               <div>
                 <img
-                  src="assets/images/core/adam-blockchain-web3-developer-solidity.png"
+                  src="assets/images/core/adam-blockchain-web3-developer-solidity.webp"
                   alt="adam-boudjemaa-solidity-developer"
                 />
               </div>
@@ -1202,7 +1202,7 @@ function Main() {
               </div>
               <div className="mx-auto">
                 <img
-                  src="assets/images/core/adam-blockchain-web3-developer-solidity.png"
+                  src="assets/images/core/adam-blockchain-web3-developer-solidity.webp"
                   className="w-full"
                   alt="adam-boudjemaa-blockchain-developer"
                 />
@@ -1558,7 +1558,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
               style={{
                 background:
-                  "url('assets/images/core/security-tokens-t-rex-erc3643.png') no-repeat center center/cover"
+                  "url('assets/images/core/security-tokens-t-rex-erc3643.webp') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
@@ -1602,7 +1602,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden lg:col-span-2"
               style={{
                 background:
-                  "url('assets/images/core/erc-6960-house-shared-ownership.png') no-repeat center center/cover"
+                  "url('assets/images/core/erc-6960-house-shared-ownership.webp') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
@@ -1646,7 +1646,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
               style={{
                 background:
-                  "url('assets/images/core/erc-20-evm-inline-assembly-yul.png') no-repeat center center/cover"
+                  "url('assets/images/core/erc-20-evm-inline-assembly-yul.webp') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
@@ -1679,7 +1679,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
               style={{
                 background:
-                  "url('assets/images/core/staking-platform-erc20-solidity.png') no-repeat center center/cover"
+                  "url('assets/images/core/staking-platform-erc20-solidity.webp') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">
@@ -1713,7 +1713,7 @@ function Main() {
               className="relative group min-h-[370px] rounded-lg cursor-pointer overflow-hidden"
               style={{
                 background:
-                  "url('assets/images/core/erc1155-evm-yul-assembly.png') no-repeat center center/cover"
+                  "url('assets/images/core/erc1155-evm-yul-assembly.webp') no-repeat center center/cover"
               }}
             >
               <div className="bg-interface-100 bg-opacity-0 transition-opacity duration-500 ease-in-out absolute w-full h-full group-hover:bg-opacity-80 rounded-lg flex flex-col items-center justify-center">

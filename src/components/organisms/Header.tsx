@@ -57,14 +57,8 @@ function Header() {
           <nav className="nav nav-dev pt-3 pb-3">
             <div className="nav__data">
               <a href="index-dev.html" className="nav__logo">
-                {/* <img src="assets/images/logo/logo-dev-m.svg" alt="" /> */}
-
                 <AdamLogo />
               </a>
-              {/* <div className="nav__toggle" id="nav-toggle">
-                <i className="fa-solid fa-bars nav__toggle-menu"></i>
-                <i className="fa-solid fa-xmark nav__toggle-close"></i>
-              </div> */}
             </div>
 
             <div className="hidden xl:block">

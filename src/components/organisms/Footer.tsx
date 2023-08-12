@@ -16,8 +16,6 @@ function Footer() {
               href="index.html"
               className="block mb-7 bg-white border-6 rounded"
             >
-              {/* <img src="assets/images/logo/logo-dev-f.svg" alt="" /> */}
-
               <AdamLogo />
             </a>
             <p className="text-white text-base">
@@ -118,27 +116,6 @@ function Footer() {
                 </a>
               </li>
             </ul>
-
-            {/* Subscription model */}
-            {/* <div className="mt-7">
-              <h4 className="font-medium text-white text-xl mb-4">
-                Subscribe Newsletter
-              </h4>
-              <form action="">
-                <div className="relative w-full">
-                  <input
-                    type="text"
-                    className="rounded-lg w-full border-0 focus:ring-1 focus:ring-new-500 p-4 bg-[#363A4B] text-white"
-                    placeholder="Email address"
-                  />
-                  <button
-                    className="bg-new-500 right-0 font-medium absolute text-interface-100 rounded-r-lg p-4"
-                  >
-                    Subscribe
-                  </button>
-                </div>
-              </form>
-            </div> */}
           </div>
         </div>
       </div>
