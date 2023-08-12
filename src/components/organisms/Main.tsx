@@ -1100,7 +1100,7 @@ function Main() {
                     </span>
                   </div>
                   <div className="flex space-x-2 items-center">
-                    <h3 className="text-7xl leading-none text-new-500 font-bold">
+                    <h3 className="text-9xl leading-none text-new-500 font-bold">
                       7
                     </h3>
                     <p className="text-lg text-white font-medium">
@@ -1110,7 +1110,7 @@ function Main() {
                     </p>
                   </div>
                 </div>
-                <ul className="list-disc list-inside">
+                <ul className="list-disc list-outside">
                   <li className="text-white text-lg mt-5 leading-normal">
                     Specialization in{' '}
                     <span className="text-new-500 font-semibold text-xl">
