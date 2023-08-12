@@ -17,6 +17,7 @@ import Arcelormittal from '../atoms/icons/Arcelormittal';
 import Biconomy from '../atoms/icons/Biconomy';
 import adamImage from 'assets/images/core/adam-blockchain-web3-developer-solidity.webp';
 
+
 function Main() {
   return (
     <main>
@@ -1202,11 +1203,7 @@ function Main() {
                 </ul>
               </div>
               <div className="mx-auto">
-                <img
-                  src={adamImage}
-                  className="w-full"
-                  alt="adam-boudjemaa-blockchain-developer"
-                />
+              <img src={adamImage} className="w-full" alt="adam-boudjemaa-blockchain-developer" />
               </div>
               <div>
                 <ul className="divide-y divide-[#494C5F]">
