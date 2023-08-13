@@ -12,12 +12,7 @@ function Footer() {
       <div className="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
         <div className="grid md:grid-cols-12 divide-y lg:divide-y-0 lg:divide-x divide-white divide-opacity-10 justify-between gap-10">
           <div className="md:col-span-6 lg:col-span-3">
-            <a
-              href="index.html"
-              className="block mb-7 bg-white border-6 rounded"
-            >
-              <AdamLogo />
-            </a>
+            <AdamLogo />
             <p className="text-white text-base">
               Crafting cutting-edge blockchain solutions with dedication and
               expertise. Let's shape the future together
