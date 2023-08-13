@@ -28,6 +28,7 @@ function Footer() {
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="Adam Boudjemaa's Twitter - Blockchain Developer Expertise"
               >
                 <i className="fa-brands fa-beat-fade fa-twitter"></i>
               </a>
@@ -37,6 +38,7 @@ function Footer() {
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="Adam Boudjemaa's LinkedIn - Professional Blockchain Profile"
               >
                 <i className="fa-brands fa-beat-fade fa-linkedin"></i>
               </a>
@@ -46,30 +48,37 @@ function Footer() {
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="Adam Boudjemaa's Medium - Blockchain and Smart Contract Articles"
               >
                 <i className="fa-brands fa-beat-fade fa-medium"></i>
               </a>
+
               <a
                 href="https://t.me/adamboudj"
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="Adam Boudjemaa's Telegram - Direct Blockchain Consultation"
               >
                 <i className="fa-brands fa-beat-fade fa-telegram"></i>
               </a>
+
               <a
                 href="https://ethereum.stackexchange.com/users/49141/adam-boudj"
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="Adam Boudjemaa's Ethereum Stack Exchange - Blockchain Q&A Contributions"
               >
                 <i className="fa-brands fa-beat-fade fa-stack-exchange"></i>
               </a>
+
               <a
                 href="https://github.com/Aboudjem"
                 className="text-interface-200 hover:bg-new-500 hover:text-interface-100 transition-all text-lg w-10 h-10 rounded-full bg-white bg-opacity-10 inline-flex justify-center items-center"
                 target="_blank"
                 rel="noopener noreferrer"
+                aria-label="Adam Boudjemaa's GitHub - Blockchain Projects and Smart Contract Repositories"
               >
                 <i className="fa-brands fa-beat-fade fa-github"></i>
               </a>
@@ -77,9 +86,6 @@ function Footer() {
           </div>
 
           <div className="md:col-span-6 lg:col-span-4 pt-8 lg:pt-0 lg:pl-12">
-            <h4 className="mb-7 text-white text-2xl font-semibold">
-              Official Info:
-            </h4>
             <ul className="space-y-3">
               <li className="flex space-x-2">
                 <svg

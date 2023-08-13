@@ -364,7 +364,7 @@ function Main() {
                   />
                 </svg>
               </div>
-              <p className="text-lg text-interface-200 mb-3 mt-4">
+              <p className="text-lg text-white text-interface-200 mb-3 mt-4">
                 Crafting secure and efficient smart contracts. Every piece of
                 code is tested, ready for deployment, and well-documented.
               </p>
@@ -617,7 +617,7 @@ function Main() {
                   />
                 </svg>
               </div>
-              <p className="text-lg text-interface-200 mb-3 mt-4">
+              <p className="text-lg text-white text-interface-200 mb-3 mt-4">
                 Delivering top-tier, best practice code. Ensuring every project
                 is of the highest standard, from documentation to deployment.
               </p>
@@ -636,7 +636,7 @@ function Main() {
                   height="75"
                 />
               </div>
-              <p className="text-lg text-interface-200 mb-3 mt-4">
+              <p className="text-lg text-white text-interface-200 mb-3 mt-4">
                 Leading the way in Decentralized Finance. Building solutions
                 that redefine how we interact with digital assets.
               </p>
@@ -755,7 +755,7 @@ function Main() {
                   </defs>
                 </svg>
               </div>
-              <p className="text-lg text-interface-200 mb-3 mt-4">
+              <p className="text-lg text-white text-interface-200 mb-3 mt-4">
                 End-to-end decentralized app creation. From front-end to
                 back-end, ensuring a seamless and powerful user experience.
               </p>
@@ -774,7 +774,7 @@ function Main() {
                   height="75"
                 />
               </div>
-              <p className="text-lg text-interface-200 mb-3 mt-4">
+              <p className="text-lg text-white text-interface-200 mb-3 mt-4">
                 Pushing the boundaries with Assembly, Yul, and Huff. Ensuring
                 your projects are optimized for maximum efficiency.
               </p>
@@ -793,7 +793,7 @@ function Main() {
                   height="75"
                 />
               </div>
-              <p className="text-lg text-interface-200 mb-3 mt-4">
+              <p className="text-lg text-white text-interface-200 mb-3 mt-4">
                 Behind the creation of ERC-3643 and ERC-6960 main standards for
                 RWA. Bridging tangible Real World Assets with blockchain, making
                 tokenization seamless and meaningful.
