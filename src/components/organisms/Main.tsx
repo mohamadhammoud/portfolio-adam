@@ -242,7 +242,7 @@ function Main() {
               <h2 className="text-white font-bold lg:text-5xl text-4xl capitalize leading-snug">
                 Blockchain
                 <span className="relative">
-                  <span className="relative z-20"> Expert!</span>
+                  <span className="relative z-20"> Expert! </span>
                   <svg
                     className="absolute  -left-1 z-0 -top-2 hidden md:block"
                     width="206"
