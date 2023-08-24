@@ -1,7 +1,0 @@
-{
-  "https://fonts.gstatic.com/s/raleway/v14/1Ptrg8zYS_SKggPNwJYtWqhPAMif.woff2": { "integrity": "sha512-qzsCB6t1X3q+k0mq3DpJaYifhTuR72JZk+rdgnB6yPorCYkYWMbB68Jj7lLm/PkOQnVMaec2E42T4jGAHxTr5g==", "contentType": "font/woff2" },
-  "https://fonts.gstatic.com/s/raleway/v14/1Ptug8zYS_SKggPNyC0IT4ttDfCmxA.woff2": { "integrity": "sha512-PZ2tHf/osDARltP/wOEGx5N0PizFcrSpZddckY0G/CfZc+IkLcqyzkOXz8ArtBV0u0HTw3rgmJK74qCQK2WiIg==", "contentType": "font/woff2" },
-  "https://unpkg.com/three@0.140.0/build/three.module.js": { "integrity": "sha512-aUf6VRbN+kWoRvXh5LJAWIkHWTx3LiYn1fAHsOiwaadw6TWFSvphD83eRmHPzDjhrhK4l7njALmTQ8k2bGehBA==", "contentType": "application/javascript; charset=utf-8" },
-  "https://unpkg.com/threejs-toys@0.0.8/build/threejs-toys.module.cdn.min.js": { "integrity": "sha512-0ffiFu7n7XrvBXYfyIwpMzc3dmldSiAiXN7CuBGVMoQq22TrLGVRzGxbcX3AzcRiiQGY9HPaaEaYYvTuqS6Drw==", "contentType": "application/javascript; charset=utf-8" },
-  "version": 1
-}

@@ -1,4 +1,9 @@
 */node_modules
+node_modules
+build
+*/build
+/build
+build/
 
 # Build files
 */.next/
@@ -35,3 +40,5 @@
 next-telemetry-client-id
 
 *.gitignore
+
+.DS_Store
