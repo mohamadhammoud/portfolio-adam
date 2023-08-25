@@ -74,3 +74,17 @@
   background-color: #d44638;
   color: white;
 }
+
+.tools-align-center {
+  /* Additional styles as needed */
+}
+
+/* Media query for screens with a maximum width of 768px (adjust as needed) */
+@media (max-width: 768px) {
+  .tools-align-center {
+    /* Your styles for mobile devices */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

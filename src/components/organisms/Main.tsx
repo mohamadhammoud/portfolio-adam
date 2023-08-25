@@ -1097,35 +1097,35 @@ function Main() {
                     Tools I use every day
                   </h3>
                 </div>
-                <ul className="mt-7 flex flex-wrap gap-x-12 gap-y-7 ">
-                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md align-center">
+                <ul className="mt-7 flex flex-wrap gap-x-12 gap-y-7 tools-align-center">
+                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md">
                     <Solidity />
                   </li>
-                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md align-center">
+                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md">
                     <Hardhat />
                   </li>
-                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md ">
+                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md">
                     <IPFS />
                   </li>
-                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md ">
+                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md">
                     <Chainlink />
                   </li>
-                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md ">
+                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md">
                     <Nodejs />
                   </li>
-                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md ">
+                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md">
                     <Nextjs />
                   </li>
-                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md ">
+                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md">
                     <Reactjs />
                   </li>
-                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md ">
+                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md">
                     <Socket />
                   </li>
-                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md ">
+                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md">
                     <Javascript />
                   </li>
-                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md ">
+                  <li className="bg-[#16213B] hover:bg-new-500 transition rounded-md">
                     <Typescript />
                   </li>
                 </ul>
@@ -1139,22 +1139,22 @@ function Main() {
                 </h3>
               </div>
               <div className="grid items-center grid-cols-2 gap-6 md:grid-cols-3 xl:grid-cols-6 xl:divide-x divide-white divide-opacity-20 mt-10 pb-8">
-                <div className="px-7 gray-scale">
+                <div className="md:px-7 sm:px-4 gray-scale">
                   <Polytrade />
                 </div>
-                <div className="px-7 gray-scale">
+                <div className="md:px-7 sm:px-4 gray-scale">
                   <Retreeb />
                 </div>
-                <div className="px-7 gray-scale">
+                <div className="md:px-7 sm:px-4 gray-scale">
                   <Securrency />
                 </div>
-                <div className="px-7 gray-scale">
+                <div className="md:px-7 sm:px-4 gray-scale">
                   <Fantom />
                 </div>
-                <div className="px-7 gray-scale">
+                <div className="md:px-7 sm:px-4 gray-scale">
                   <Tokeny />
                 </div>
-                <div className="px-7 gray-scale">
+                <div className="md:px-7 sm:px-4 gray-scale">
                   <Arcelormittal />
                 </div>
               </div>
