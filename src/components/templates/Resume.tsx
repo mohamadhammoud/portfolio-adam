@@ -28,7 +28,7 @@ function Resume() {
               <div className="flex flex-col gap-y-5 md:flex-row justify-between pb-5 border-b border-[#494C5F]">
                 <div className="nonaligned">
                   <h3 className="text-2xl text-white font-semibold mb-2 nonaligned">
-                    <span className="mx-5 nonaligned">Adam Boudjemaa</span>
+                    Adam Boudjemaa
                   </h3>
                   <span className="text-white text-lg nonaligned">
                     Blockchain Lead Developer
