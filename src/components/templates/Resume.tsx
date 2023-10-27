@@ -26,22 +26,22 @@ function Resume() {
           <div className="grid lg:grid-cols-3 gap-5 xl:gap-10 items-center py-12 md:py-20">
             <div className="pb-4">
               <div className="flex flex-col gap-y-5 md:flex-row justify-between pb-5 border-b border-[#494C5F]">
-                <div>
-                  <h3 className="text-2xl text-white font-semibold mb-2">
-                    <span className="mx-5">Adam Boudjemaa</span>
+                <div className="nonaligned">
+                  <h3 className="text-2xl text-white font-semibold mb-2 nonaligned">
+                    <span className="mx-5 nonaligned">Adam Boudjemaa</span>
                   </h3>
-                  <span className="text-white text-lg">
+                  <span className="text-white text-lg nonaligned">
                     Blockchain Lead Developer
                   </span>
                 </div>
                 <div className="flex space-x-2 items-center">
-                  <h3 className="text-9xl leading-none text-new-500 font-bold">
-                    <span> 7 </span>
+                  <h3 className="text-9xl leading-none text-new-500 font-bold aligned">
+                    <span className="aligned"> 7 </span>
                   </h3>
                   <p className="text-lg text-white font-medium">
-                    Years <br />
-                    Experience <br />
-                    of Blockchain Mastery
+                    <span className="aligned"> Years</span> <br />
+                    <span className="aligned">Experience</span> <br />
+                    <span className="aligned">of Blockchain Mastery</span>
                   </p>
                 </div>
               </div>

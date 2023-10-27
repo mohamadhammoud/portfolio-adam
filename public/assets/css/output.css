@@ -6873,7 +6873,11 @@ body {
     align-self: center;
   }
 }
-
+@media screen and (min-width:768px) and (max-width:992px) {
+  .nonaligned{
+    margin-top: 22px;
+  }
+}
 
 @media screen and (min-width:401px) and (max-width:600px) {
   .topdiv{
