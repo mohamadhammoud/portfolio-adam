@@ -6854,6 +6854,9 @@ body {
   .bchainpara{
     text-align: center;
   }
+  .servicetext{
+    font-size: 27px;
+  }
   .resumedate{
     font-size: 20px;
   }
@@ -6910,6 +6913,9 @@ body {
   .bchainpara{
     text-align: center;
   }
+  .servicetext{
+    font-size: 27px;
+  }
   .resumedate{
     font-size: 15px;
   }
@@ -6965,6 +6971,9 @@ body {
   }
   .bchainpara{
     text-align: center;
+  }
+  .servicetext{
+    font-size: 27px;
   }
   .resumedate{
     font-size: 15px;
