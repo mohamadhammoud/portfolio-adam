@@ -38,10 +38,10 @@ function Services() {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-7">
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
-            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug">
-              Smart Contract
+            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug ">
+              <span className="servicetext">Smart Contract</span>
               <br />
-              Specialist
+              <span className="servicetext">Specialist</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-porange-700 bg-opacity-10 absolute -right-5 -top-5">
               <svg
@@ -137,10 +137,10 @@ function Services() {
             </p>
           </div>
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
-            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug">
-              Quality Code
+            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug ">
+              <span className="servicetext">Quality Code</span>
               <br />
-              Assurance
+              <span className="servicetext">Assurance</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-white bg-opacity-10 absolute -right-5 -top-5">
               <svg
@@ -390,10 +390,10 @@ function Services() {
             </p>
           </div>
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
-            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug">
-              DeFi
+            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug ">
+              <span className="servicetext">DeFi</span>
               <br />
-              Innovator
+              <span className="servicetext">Innovator</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-seagreen-500 bg-opacity-10 absolute -right-5 -top-5">
               <img
@@ -409,9 +409,9 @@ function Services() {
             </p>
           </div>
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
-            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug">
-              DApp <br />
-              Development
+            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug ">
+              <span className="servicetext">DApp</span> <br />
+              <span className="servicetext">Development</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-orange-500 bg-opacity-10 absolute -right-5 -top-5">
               <svg
@@ -528,10 +528,10 @@ function Services() {
             </p>
           </div>
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
-            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug">
-              Optimization
+            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug ">
+              <span className="servicetext">Optimization</span>
               <br />
-              Maestro
+              <span className="servicetext">Maestro</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-porange-700 bg-opacity-10 absolute -right-5 -top-5">
               <img
@@ -548,9 +548,9 @@ function Services() {
           </div>
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
             <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug">
-              RWA
+              <span className="servicetext"> RWA</span>
               <br />
-              Pioneer
+              <span className="servicetext">Pioneer</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-sky-500 absolute -right-5 -top-5">
               <img
