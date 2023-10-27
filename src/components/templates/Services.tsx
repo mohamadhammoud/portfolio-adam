@@ -6,10 +6,10 @@ function Services() {
       <div className="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-5 gap-5 xl:gap-10 lg:gap-16 place-items-center mb-14">
           <div className="xl:col-span-2">
-            <h2 className="text-white font-bold lg:text-5xl text-4xl capitalize leading-snug">
-              Blockchain
+            <h2 className="text-white font-bold lg:text-5xl text-4xl capitalize leading-snug chaindiv">
+              <span className="bchain">Blockchain</span>
               <span className="relative">
-                <span className="relative z-20"> Expert! </span>
+                <span className="relative z-20 bchain"> Expert! </span>
                 <svg
                   className="absolute  -left-1 z-0 -top-2 hidden md:block"
                   width="206"
@@ -25,12 +25,12 @@ function Services() {
                     strokeLinecap="round"
                   />
                 </svg>
-                Let's Dive In.
+                <span className="bchain">Let's Dive In.</span>
               </span>
             </h2>
           </div>
           <div className="xl:col-span-3">
-            <p className="text-white text-xl">
+            <p className="text-white text-xl bchainpara">
               Navigating the world of smart contracts, EVM and Solidity with
               precision. Let's revolutionize blockchain solutions together.
             </p>

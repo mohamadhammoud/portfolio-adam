@@ -181,7 +181,7 @@ function Resume() {
                     <Polytrade />
                   </div>
                   <div className="shrink-0">
-                    <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md">
+                    <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md resumedate">
                       2021-2023
                     </span>
                   </div>
@@ -194,7 +194,7 @@ function Resume() {
                     <Securrency />
                   </div>
                   <div className="shrink-0">
-                    <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md">
+                    <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md resumedate">
                       2021-2021
                     </span>
                   </div>
@@ -208,7 +208,7 @@ function Resume() {
                     <Fantom />
                   </div>
                   <div className="shrink-0">
-                    <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md">
+                    <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md resumedate">
                       2020-2021
                     </span>
                   </div>
@@ -223,7 +223,7 @@ function Resume() {
                     <Tokeny />
                   </div>
                   <div className="shrink-0">
-                    <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md">
+                    <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md resumedate">
                       2019-2021
                     </span>
                   </div>
@@ -237,7 +237,7 @@ function Resume() {
                     <Arcelormittal />
                   </div>
                   <div className="shrink-0">
-                    <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md">
+                    <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md resumedate">
                       2017-2018
                     </span>
                   </div>

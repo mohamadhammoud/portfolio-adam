@@ -6752,3 +6752,233 @@ body {
     line-height: 1.25;
   }
 }
+
+@media screen and (min-width:1024px) and (max-width:5000px) {
+  .topdiv{
+    margin-top: 30px;
+    text-align: center;
+  }
+  .toptext{
+    font-size: 50px;
+  }
+  .text-new-500{
+    font-size: 50px;
+  }
+  .toptext2{
+    font-size: 35px;
+  }
+  .toppara{
+    font-size: 10px;
+    text-align: center;
+  }
+  .btn1{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 19px;
+    width: 140px;
+    height: 60px;
+    column-gap: 0px;
+  }
+  .btn1:hover {
+    transform: scale(1.05); /* Bump effect on hover */
+  }
+  .btndiv{
+    justify-content: center;
+  }
+  .bchain{
+    font-size: 30px;
+  }
+  .chaindiv{
+    text-align: center;
+  }
+  .bchainpara{
+    text-align: center;
+  }
+  .resumedate{
+    font-size: 20px;
+  }
+  .CATpara{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+  }
+  .myfooter{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+  }
+}
+
+
+
+@media screen and (min-width:601px) and (max-width:1023px) {
+  .topdiv{
+    margin-top: 30px;
+    text-align: center;
+  }
+  .toptext{
+    font-size: 50px;
+  }
+  .text-new-500{
+    font-size: 50px;
+  }
+  .toptext2{
+    font-size: 35px;
+  }
+  .toppara{
+    font-size: 10px;
+    text-align: center;
+  }
+  .btn1{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 19px;
+    width: 140px;
+    height: 60px;
+    column-gap: 0px;
+  }
+  .btn1:hover {
+    transform: scale(1.05); /* Bump effect on hover */
+  }
+  .btndiv{
+    justify-content: center;
+  }
+  .bchain{
+    font-size: 30px;
+  }
+  .chaindiv{
+    text-align: center;
+  }
+  .bchainpara{
+    text-align: center;
+  }
+  .resumedate{
+    font-size: 20px;
+  }
+  .CATpara{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+  }
+  .myfooter{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+  }
+}
+
+
+@media screen and (min-width:401px) and (max-width:600px) {
+  .topdiv{
+    margin-top: 30px;
+    text-align: center;
+  }
+  .toptext{
+    font-size: 30px;
+  }
+  .text-new-500{
+    font-size: 30px;
+  }
+  .toptext2{
+    font-size: 20px;
+  }
+  .toppara{
+    font-size: 10px;
+    text-align: center;
+  }
+  .btn1{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 13px;
+    width: 70px;
+    height: 30px;
+    column-gap: 0px;
+  }
+  .btndiv{
+    justify-content: center;
+  }
+  .bchain{
+    font-size: 30px;
+  }
+  .chaindiv{
+    text-align: center;
+  }
+  .bchainpara{
+    text-align: center;
+  }
+  .resumedate{
+    font-size: 15px;
+  }
+  .CATpara{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+  }
+  .myfooter{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+  }
+}
+
+
+@media screen and (min-width:100px) and (max-width:400px) {
+  .topdiv{
+    margin-top: 30px;
+    text-align: center;
+  }
+  .toptext{
+    font-size: 30px;
+  }
+  .text-new-500{
+    font-size: 30px;
+  }
+  .toptext2{
+    font-size: 20px;
+  }
+  .toppara{
+    font-size: 10px;
+    text-align: center;
+  }
+  .btn1{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 13px;
+    width: 70px;
+    height: 30px;
+    column-gap: 0px;
+  }
+  .btndiv{
+    justify-content: center;
+  }
+  .bchain{
+    font-size: 30px;
+  }
+  .chaindiv{
+    text-align: center;
+  }
+  .bchainpara{
+    text-align: center;
+  }
+  .resumedate{
+    font-size: 15px;
+  }
+  .CATpara{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+  }
+  .myfooter{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+  }
+}

@@ -3,13 +3,13 @@ import AdamLogo from '../atoms/icons/AdamLogo';
 function Footer() {
   return (
     <footer
-      className="lg:py-120 py-20 border-b border-[#1C2134]"
+      className="lg:py-120 py-20 border-b border-[#1C2134] myfooter"
       style={{
         background:
           "url('assets/images/bg/dev-ft-bg.jpg') no-repeat center center/cover"
       }}
     >
-      <div className="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
+      <div className="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8 myfooter">
         <div className="grid md:grid-cols-12 divide-y lg:divide-y-0 lg:divide-x divide-white divide-opacity-10 justify-between gap-10">
           <div className="md:col-span-6 lg:col-span-3">
             <AdamLogo />
