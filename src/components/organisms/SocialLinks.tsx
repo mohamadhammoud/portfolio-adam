@@ -98,7 +98,7 @@ function SocialLinks() {
           <div className="group">
             <SocialLink
               text="Linkedin"
-              link="https://www.linkedin.com/in/adamboudjemaa"
+              link="https://www.linkedin.com/in/adam-boudjemaa"
               icon={
                 <svg
                   className="fill-white group-hover:fill-interface-100"
