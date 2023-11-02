@@ -30,15 +30,6 @@ function Introduction() {
               blockchain expertise.
             </p>
             <div className="flex items-center gap-2 mt-10 btndiv">
-              {/* WhatsApp Button */}
-              <a
-                href="https://wa.me/+971585129533"
-                className="btn1 bg-whatsapp text-interface-100 py-4 rounded-lg inline-flex justify-center items-center font-medium transition-all"
-              >
-                <span>WhatsApp</span>
-                <i className="fab fa-whatsapp ml-2"></i>
-              </a>
-
               {/* Telegram Button */}
               <a
                 href="https://t.me/adamboudj"
@@ -50,7 +41,7 @@ function Introduction() {
 
               {/* Email Button */}
               <a
-                href="mailto:boudjemaa.adam@gmail.com"
+                href="mailto:adam@smart-contracts-developer.com"
                 className="btn1 bg-email text-interface-100 py-4 rounded-lg inline-flex justify-center items-center font-medium transition-all ml-2"
               >
                 <span>Email</span>
