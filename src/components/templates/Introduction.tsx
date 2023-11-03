@@ -12,7 +12,7 @@ function Introduction() {
         <div className="flex flex-col gap-10 lg:flex-row lg:items-center pb-20">
           {/* <!-- Left --> */}
           <div className="lg:w-1/2">
-            <h1 className="xnone"> Hey, I am </h1>
+            <h1 className=""> Hey, I am </h1>
             <h1 className="text-5xl leading-snug xl:text-[66px] mb-8 xl:leading-normal font-bold text-white topdiv">
               <span className="toptext"> Hey, I am </span> <br />
               <span className="text-new-500">Adam Boudjemaa </span> <br />
@@ -21,10 +21,9 @@ function Introduction() {
                 style={{
                   background:
                     "url('assets/images/blockchain-background/wide-line.svg') no-repeat bottom"
-                }
-              }
+                }}
               >
-                <span className="toptext2">Blockchain Lead </span>
+                <span className="">Blockchain Lead </span>
               </span>
             </h1>
             <h2 className="xnone;">Adam Boudjemaa</h2>
