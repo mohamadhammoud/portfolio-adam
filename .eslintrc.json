@@ -1,4 +1,4 @@
-// {
+{
 //   "env": {
 //     "browser": true,
 //     "es6": true
@@ -60,4 +60,4 @@
 //     "object-shorthand": "error",
 //     "no-console": "warn"
 //   }
-// }
+}
