@@ -12,7 +12,6 @@ function Introduction() {
         <div className="flex flex-col gap-10 lg:flex-row lg:items-center pb-20">
           {/* <!-- Left --> */}
           <div className="lg:w-1/2">
-            <h1 className=""> one</h1>
             <h1 className="text-5xl leading-snug xl:text-[66px] mb-8 xl:leading-normal font-bold text-white topdiv">
               <span className="toptext"> Hey, I am </span> <br />
               <span className="text-new-500">Adam Boudjemaa </span> <br />
@@ -26,7 +25,8 @@ function Introduction() {
                 <span className="">Blockchain Lead </span>
               </span>
             </h1>
-            <h2 className="xnone;">Two</h2>
+            <h1 className="xnone">Testing Tag Two</h1>
+            <h2 className="xntwo">Testing Tag Two</h2>
             <p className="text-2xl text-borderl-500 mb-4 toppara">
               Turn your ideas into reality with trusted <br /> top-rated
               blockchain expertise.
