@@ -25,8 +25,6 @@ function Introduction() {
                 <span className="toptext2">Blockchain Lead</span>
               </span>
             </h1>
-            <h1>Blockchain Lead</h1>
-            <h2>Blockchain</h2>
             <p className="text-2xl text-borderl-500 mb-4 toppara">
               Turn your ideas into reality with trusted <br /> top-rated
               blockchain expertise.
