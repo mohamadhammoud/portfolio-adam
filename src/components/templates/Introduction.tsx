@@ -13,8 +13,8 @@ function Introduction() {
           {/* <!-- Left --> */}
           <div className="lg:w-1/2">
             <h1 className="text-5xl leading-snug xl:text-[66px] mb-8 xl:leading-normal font-bold text-white topdiv">
-              <span className="toptext"> Hey, I am </span> <br />
-              <span className="text-new-500">Adam Boudjemaa </span> <br />
+              <span className="toptext"> Hey, I am</span> <br />
+              <span className="text-new-500">Adam Boudjemaa</span> <br />
               <span
                 className="inline-block"
                 style={{
@@ -22,11 +22,11 @@ function Introduction() {
                     "url('assets/images/blockchain-background/wide-line.svg') no-repeat bottom"
                 }}
               >
-                <span className="">Blockchain Lead </span>
+                <span className="toptext2">Blockchain Lead</span>
               </span>
             </h1>
-            <h1 className="xnone">Testing Tag Two</h1>
-            <h2 className="xntwo">Testing Tag Two</h2>
+            <h1>Blockchain Lead</h1>
+            <h2>Blockchain</h2>
             <p className="text-2xl text-borderl-500 mb-4 toppara">
               Turn your ideas into reality with trusted <br /> top-rated
               blockchain expertise.
