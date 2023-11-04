@@ -2,4 +2,4 @@ User-agent: *
 Disallow:
 
 # Sitemap location
-Sitemap: https://www.smart-contracts-developer.com/sitemap.xml
+Sitemap: hhttps://dev.d23dwgnhqwamkr.amplifyapp.com/sitemap.xml
