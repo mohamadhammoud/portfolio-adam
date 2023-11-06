@@ -410,7 +410,12 @@ function Services() {
           </div>
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
             <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug ">
-              <span className="servicetext">DApp</span> <br />
+              <span className="servicetext">
+                <a href="https://ethereum.org/en/developers/docs/dapps/">
+                  DApp{' '}
+                </a>
+              </span>{' '}
+              <br />
               <span className="servicetext">Development</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-orange-500 bg-opacity-10 absolute -right-5 -top-5">

@@ -27,7 +27,7 @@ function Introduction() {
             </div>
             <p className="text-2xl text-borderl-500 mb-4 toppara">
               Turn your ideas into reality with trusted <br /> top-rated
-              blockchain expertise.
+              <a href="https://www.blockchain.com/"> blockchain </a>expertise.
             </p>
             <div className="flex items-center gap-2 mt-10 btndiv">
               {/* Telegram Button */}

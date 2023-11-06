@@ -53,7 +53,7 @@ function Resume() {
                   </span>
                   ,{' '}
                   <span className="text-new-500 font-semibold text-xl">
-                    Web3
+                    <a href="https://hbr.org/2022/05/what-is-web3"> Web3</a>
                   </span>
                   , and{' '}
                   <span className="text-new-500 font-semibold text-xl">
@@ -65,7 +65,10 @@ function Resume() {
                   {' '}
                   Expertise in{' '}
                   <span className="text-new-500 font-semibold text-xl">
-                    DApp
+                    <a href="https://ethereum.org/en/developers/docs/dapps/">
+                      {' '}
+                      DApp
+                    </a>
                   </span>{' '}
                   &{' '}
                   <span className="text-new-500 font-semibold text-xl">
