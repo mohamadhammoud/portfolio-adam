@@ -62,12 +62,12 @@ function Introduction() {
           {/* <!-- Right --> */}
           <div className="lg:w-1/2">
             <div>
-              <img
+              {/* <img
                 src="assets/images/core/adam-blockchain-web3-developer-solidity.webp"
                 alt="adam-boudjemaa-solidity-developer"
                 width="888"
                 height="1000"
-              />
+              /> */}
             </div>
           </div>
         </div>
