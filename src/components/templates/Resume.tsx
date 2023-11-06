@@ -188,12 +188,7 @@ function Resume() {
                     <h4 className="text-xl font-semibold text-white mb-4">
                       Blockchain Lead Dev
                     </h4>
-                    <img
-                      src="assets/images/icons/retreeb.webp"
-                      alt="adam-boudjemaa-blockchain-developer"
-                      width="110"
-                      height="22"
-                    />
+                    <Polytrade />
                   </div>
                   <div className="shrink-0">
                     <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md resumedate">
@@ -206,12 +201,7 @@ function Resume() {
                     <h4 className="text-xl font-semibold text-white mb-4">
                       Blockchain Engineer
                     </h4>
-                    <img
-                      src="assets/images/icons/retreeb.webp"
-                      alt="adam-boudjemaa-blockchain-developer"
-                      width="110"
-                      height="22"
-                    />
+                    <Securrency />
                   </div>
                   <div className="shrink-0">
                     <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md resumedate">
@@ -225,12 +215,7 @@ function Resume() {
                     <h4 className="text-xl font-semibold text-white mb-4">
                       Blockchain Engineer
                     </h4>
-                    <img
-                      src="assets/images/icons/retreeb.webp"
-                      alt="adam-boudjemaa-blockchain-developer"
-                      width="110"
-                      height="22"
-                    />
+                    <Fantom />
                   </div>
                   <div className="shrink-0">
                     <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md resumedate">
@@ -245,12 +230,7 @@ function Resume() {
                       Blockchain Developer
                     </h4>
 
-                    <img
-                      src="assets/images/icons/retreeb.webp"
-                      alt="adam-boudjemaa-blockchain-developer"
-                      width="110"
-                      height="22"
-                    />
+                    <Tokeny />
                   </div>
                   <div className="shrink-0">
                     <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md resumedate">
@@ -264,12 +244,7 @@ function Resume() {
                     <h4 className="text-xl font-semibold text-white mb-4">
                       IT Security Engineer
                     </h4>
-                    <img
-                      src="assets/images/icons/retreeb.webp"
-                      alt="adam-boudjemaa-blockchain-developer"
-                      width="110"
-                      height="22"
-                    />
+                    <Arcelormittal />
                   </div>
                   <div className="shrink-0">
                     <span className="border border-new-500 text-new-500 px-3 py-2 rounded-md resumedate">
