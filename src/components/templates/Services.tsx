@@ -6,10 +6,10 @@ function Services() {
       <div className="mx-auto px-4 sm:px-6 lg:max-w-7xl lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-5 gap-5 xl:gap-10 lg:gap-16 place-items-center mb-14">
           <div className="xl:col-span-2">
-            <h2 className="text-white font-bold lg:text-5xl text-4xl capitalize leading-snug">
-              Blockchain
+            <h2 className="text-white font-bold lg:text-5xl text-4xl capitalize leading-snug chaindiv">
+              <span className="bchain">Blockchain</span>
               <span className="relative">
-                <span className="relative z-20"> Expert! </span>
+                <span className="relative z-20 bchain"> Expert! </span>
                 <svg
                   className="absolute  -left-1 z-0 -top-2 hidden md:block"
                   width="206"
@@ -25,12 +25,12 @@ function Services() {
                     strokeLinecap="round"
                   />
                 </svg>
-                Let's Dive In.
+                <span className="bchain">Let's Dive In.</span>
               </span>
             </h2>
           </div>
           <div className="xl:col-span-3">
-            <p className="text-white text-xl">
+            <p className="text-white text-xl bchainpara">
               Navigating the world of smart contracts, EVM and Solidity with
               precision. Let's revolutionize blockchain solutions together.
             </p>
@@ -38,10 +38,10 @@ function Services() {
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-7">
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
-            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug">
-              Smart Contract
+            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug ">
+              <span className="servicetext">Smart Contract</span>
               <br />
-              Specialist
+              <span className="servicetext">Specialist</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-porange-700 bg-opacity-10 absolute -right-5 -top-5">
               <svg
@@ -137,10 +137,10 @@ function Services() {
             </p>
           </div>
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
-            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug">
-              Quality Code
+            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug ">
+              <span className="servicetext">Quality Code</span>
               <br />
-              Assurance
+              <span className="servicetext">Assurance</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-white bg-opacity-10 absolute -right-5 -top-5">
               <svg
@@ -390,10 +390,10 @@ function Services() {
             </p>
           </div>
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
-            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug">
-              DeFi
+            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug ">
+              <span className="servicetext">DeFi</span>
               <br />
-              Innovator
+              <span className="servicetext">Innovator</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-seagreen-500 bg-opacity-10 absolute -right-5 -top-5">
               <img
@@ -409,9 +409,14 @@ function Services() {
             </p>
           </div>
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
-            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug">
-              DApp <br />
-              Development
+            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug ">
+              <span className="servicetext">
+                <a href="https://ethereum.org/en/developers/docs/dapps/">
+                  DApp{' '}
+                </a>
+              </span>{' '}
+              <br />
+              <span className="servicetext">Development</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-orange-500 bg-opacity-10 absolute -right-5 -top-5">
               <svg
@@ -528,10 +533,10 @@ function Services() {
             </p>
           </div>
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
-            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug">
-              Optimization
+            <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug ">
+              <span className="servicetext">Optimization</span>
               <br />
-              Maestro
+              <span className="servicetext">Maestro</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-porange-700 bg-opacity-10 absolute -right-5 -top-5">
               <img
@@ -548,9 +553,9 @@ function Services() {
           </div>
           <div className="bg-interface-600 rounded-xl border border-[#494C5F] rounded-custom p-6 overflow-hidden relative hover:shadow-custom transition-all hover:border-porange-500">
             <span className="text-white font-bold lg:text-4xl text-4xl capitalize leading-snug">
-              RWA
+              <span className="servicetext"> RWA</span>
               <br />
-              Pioneer
+              <span className="servicetext">Pioneer</span>
             </span>
             <div className="w-36 h-36 rounded-full inline-flex items-center justify-center bg-sky-500 absolute -right-5 -top-5">
               <img
